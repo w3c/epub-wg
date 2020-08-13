@@ -10,10 +10,14 @@ layout: default
 
 ## Teleconferences
 
+To accommodate the time zone differences the teleconferences alternate between two time slots:
 
-The weekly teleconferences are held _@@@TOBD@@@_, at *@@@TOBD@@@* (see the [time zone calculator](https://tinyurl.com/@@@TOBD@@@) for the exact timing for your time zone). See the [separate page](./zoom) for the dial-in information.
+* Every second week, starting the 11th of September 2020, the call is on Fridays at 10:00 US Eastern times
+* Every second week, starting the 18th of September 2020, the call is on Thursdays at 18:00 US Eastern times
 
-The Group also uses IRC for during the calls for minute taking, queue control, and general chit-chat. See the [separate page at W3C](https://www.w3.org/Project/IRC/) for further details. This Working Group uses the `#did` channel, and makes use of two bots on IRC:
+See the [separate page](./zoom) for the dial-in information, which also links to an ICS file to help setting the correct local times.
+
+The Group also uses IRC for during the calls for minute taking, queue control, and general chit-chat. See the [separate page at W3C](https://www.w3.org/Project/IRC/) for further details. This Working Group uses the `#epub` channel, and makes use of two bots on IRC:
 
 * `zakim` for queue control (see the separate [manual pages](https://www.w3.org/2001/12/zakim-irc-bot.html) for  further details.)
 * `rrsagent` for scribing and minute generation (see the separate [manual pages](https://www.w3.org/2002/03/RRSAgent) on how to control the access rights and storage of the IRC logs, and the separate [`scribejs` features](https://github.com/w3c/scribejs/blob/master/features.md) for the scribe instructions).

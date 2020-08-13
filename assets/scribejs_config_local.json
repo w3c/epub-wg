@@ -1,7 +1,7 @@
 {
 	"ghrepo"       : "w3c/epub-wg",
 	"ghpath"       : "_minutes",
-	"ghbranch"     : "master",
+	"ghbranch"     : "main",
 	"group"        : "epub",
     "nicknames"    : "/Users/ivan/W3C/github/EPUB/epub-wg/assets/nicknames.json",
     "acrepo"       : "w3c/epub-wg",

@@ -1,56 +1,9 @@
 [
     {
-        "nick": [
-            "geealbers"
-        ],
-        "name": "Greg Albers",
-        "github": "geealbers"
-    },
-    {
-        "nick": [
-            "laudrain",
-            "Luc"
-        ],
-        "name": "Luc Audrain",
-        "github": "laudrain"
-    },
-    {
-        "nick": [],
-        "name": "Christofer Auclair"
-    },
-    {
-        "nick": [
-            "BorisAnthony"
-        ],
-        "name": "Boris Anthony",
-        "github": "BorisAnthony"
-    },
-    {
-        "nick": [
-            "michaelbaker",
-            "mikebaker"
-        ],
-        "name": "Michael Baker",
-        "github": "mikebbaker"
-    },
-    {
-        "nick": [
-            "baldurbjarnason"
-        ],
-        "name": "Baldur Bjarnason",
-        "github": "baldurbjarnason"
-    },
-    {
         "nick" : [
             "laurab"
         ],
         "name": "Laura Brady"
-    },
-    {
-        "nick": [
-            "nickbrown", "Nick_Brown"
-        ],
-        "name": "Nick Brown"
     },
     {
         "nick": [
@@ -61,33 +14,10 @@
     },
     {
         "nick": [
-            "timCole",
-            "tcole",
-            "t-cole3"
-        ],
-        "name": "Tim Cole",
-        "github": "tcole3"
-    },
-    {
-        "nick": [
             "Rachel"
         ],
         "name": "Rachel Comerford",
         "github": "RachelComerford"
-    },
-    {
-        "nick": [
-            "ckcosner"
-        ],
-        "github": "ckcosner",
-        "name": "Christopher Cosner"
-    },
-    {
-        "nick": [
-            "gregdavis"
-        ],
-        "name": "Greg Davis",
-        "github" : "antelopeb"
     },
     {
         "nick": [
@@ -105,10 +35,6 @@
         ],
         "name": "Ben Dugas",
         "github": "bdugas"
-    },
-    {
-        "nick": [],
-        "name": "Roger Espinosa"
     },
     {
         "nick": [
@@ -164,14 +90,6 @@
     },
     {
         "nick": [
-            "HeatherF",
-            "Heather"
-        ],
-        "name": "Heather Flanagan",
-        "github": "hlflanagan"
-    },
-    {
-        "nick": [
             "teenya"
         ],
         "name": "Teenya Franklin",
@@ -197,21 +115,11 @@
         "github": "mattgarrish"
     },
     {
-        "nick"  : [
-            "Michael_Goodman"
-        ],
-        "name": "Michael Goodman"
-    },
-    {
         "nick": [
             "katie",
             "ryladog"
         ],
         "name": "Katie Haritos-Shea"
-    },
-    {
-        "nick": [],
-        "name": "Markku Hakkinen"
     },
     {
         "nick": ["CHayes"],
@@ -261,12 +169,6 @@
     },
     {
         "nick": [
-            "Yuri"
-        ],
-        "name": "Yuri Khramov"
-    },
-    {
-        "nick": [
             "toshiaki-koike",
             "toshiakikoike"
         ],
@@ -285,21 +187,6 @@
     },
     {
         "nick": [
-            "MustLazMS"
-        ],
-        "name": "Mustapha Lazrek",
-        "github": "Mustlaz"
-    },
-    {
-        "nick": [],
-        "name": "Jia Ma"
-    },
-    {
-        "nick": [],
-        "name": "Phil Madans"
-    },
-    {
-        "nick": [
             "murata",
             "makoto"
         ],
@@ -314,10 +201,6 @@
         ],
         "name": "Chris Maden",
         "github": "crism"
-    },
-    {
-        "nick": [],
-        "name": "Jonathan McGlone"
     },
     {
         "nick": [
@@ -366,21 +249,11 @@
         "github": "hughmcguire"
     },
     {
-        "nick": [],
-        "name": "Maureen McMahon"
-    },
-    {
         "nick": [
             "nellie"
         ],
         "name": "Nellie McKesson",
         "github": ""
-    },
-    {
-        "nick": [
-            "Michael"
-        ],
-        "name": "Michael Miller"
     },
     {
         "nick": [
@@ -397,24 +270,8 @@
         "github": "jmulliken"
     },
     {
-        "nick": [
-            "davidm"
-        ],
-        "name" : "David Merrell"
-    },
-    {
         "nick": [],
         "name": "Brian Pech"
-    },
-    {
-        "nick": [],
-        "name": "Fernando Pinto da Silva"
-    },
-    {
-        "nick": [
-            "MarthP"
-        ],
-        "name": "Marty Picco"
     },
     {
         "nick": [
@@ -492,25 +349,10 @@
     },
     {
         "nick": [
-            "jodi",
-            "JodiS"
-        ],
-        "name": "Jodi Schneider",
-        "github": "jodischneider"
-    },
-    {
-        "nick": [
             "BenSchroeter"
         ],
         "name": "Ben Schroeter",
         "github": "BenSchroeter"
-    },
-    {
-        "nick": [
-            "LillianSullam",
-            "lsullam"
-        ],
-        "name": "Lillian Sullam"
     },
     {
         "nick": [
@@ -525,14 +367,6 @@
         ],
         "name": "Avneesh Singh",
         "github": "avneeshsingh"
-    },
-    {
-        "nick": [],
-        "name": "Susanna Skinner"
-    },
-    {
-        "nick": [],
-        "name": "Kathryn Stewart"
     },
     {
         "nick": [
@@ -559,22 +393,11 @@
     },
     {
         "nick": [
-            "BenWaltersMS"
-        ],
-        "name": "Ben Walters",
-        "github": "BCWalters"
-    },
-    {
-        "nick": [
             "wendy",
             "wendyreid"
         ],
         "name": "Wendy Reid",
         "github": "wareid"
-    },
-    {
-        "nick": [],
-        "name": "Jonathan Thurston"
     },
     {
         "nick": [
@@ -584,19 +407,6 @@
         ],
         "name": "Daniel Weck",
         "github": "danielweck"
-    },
-    {
-        "nick": [],
-        "name": "John Weise"
-    },
-    {
-        "nick": [
-            "prototypo",
-            "dwood",
-            "DavidWood"
-        ],
-        "name": "David Wood",
-        "github": "prototypo"
     },
     {
         "nick": [
@@ -616,12 +426,6 @@
         "github": "rakutenjeff"
     },
     {
-        "nick": [
-            "evan"
-        ],
-        "name": "Evan Yamanishi"
-    },
-    {
         "nick": [],
         "name": "Maurice York"
     },
@@ -635,16 +439,16 @@
     },
     {
         "nick": [
-            "jyasskin"
-        ],
-        "name": "Jeffrey Yasskin"
-    },
-    {
-        "nick": [
             "ralph"
         ],
         "name": "Ralph Swick",
         "github": "swickr"
+    },
+    {
+        "nick": [
+            "shinya"
+        ],
+        "name": "Shinya Takami (高見真也)"
     },
     {
         "nick": [
@@ -655,27 +459,12 @@
         "github": "francofaa"
     },
     {
-        "name": "Adam Sisco",
-        "github":"awsisco",
-        "nick": [
-            "awsisco",
-            "adamsisco"
-        ]
-    },
-    {
         "name": "Jean Kaplansky",
         "nick" : [
             "Jean_kaplansky",
             "JeanK",
             "Jean_K"
         ]
-    },
-    {
-        "name": "Marcelo da Silva Zanon",
-        "nick": [
-            "marcelo"
-        ],
-        "github" : "marcelozanon"
     },
     {
         "name": "Juan Corona",
@@ -721,11 +510,12 @@
         "name": "Yuya Kato"
     },
     {
-        "name" : "Daihei Shiohama",
-        "nick" :[
+        "nick": [
             "Daihei",
-            "Daihei_Shiohamna"
+            "塩濱大平",
+            "Daihei_Shiohama"
         ],
+        "name": "Daihei Shiohama (塩濱大平)",
         "github": "dshiohama"
     },
     {
@@ -747,11 +537,8 @@
         ]
     },
     {
-        "name" : "Keith McFarland",
-        "nick" : [
-            "keith",
-            "keithmcfarland"
-        ]
+        "name": "Naomi Yoshizawa (吉澤直美)",
+        "nick" : ["naomi"]
     },
     {
         "name" : "Kenneth Dougherty",

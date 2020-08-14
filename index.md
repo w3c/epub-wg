@@ -44,5 +44,3 @@ json-ld: |
       }
   }
 ---
-
-(This is a placeholder page; the group should still be officially approved by the W3C Management.)

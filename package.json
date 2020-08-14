@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "name": "epub-wg",
+  "version": "0.1.0",
+  "description": "Node tooling for the EPUB Working Group site",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scribejs": "scribejs -c .scribejs.json",
+    "serve": "jekyll serve --incremental"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3c/epub-wg.git"
+  },
+  "keywords": [
+    "W3C",
+    "publishing"
+  ],
+  "author": "W3C Members",
+  "license": "W3C-20150513",
+  "bugs": {
+    "url": "https://github.com/w3c/epub-wg/issues"
+  },
+  "homepage": "https://github.com/w3c/epub-wg#readme",
+  "devDependencies": {
+    "scribejs": "git+https://github.com/w3c/scribejs.git"
+  }
+}

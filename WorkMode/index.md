@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# DID Working Group Work mode
+# EPUB 3 Working Group Work mode
 {: .no_toc}
 
 This document defines and describes the {{ site.wgname_uc }} WG's *Real Work Modes*, including Participation and Communication, Meetings, Calls for Consensus, Mail List usage, and links to important resources.
@@ -24,7 +24,7 @@ The group's formal Participation and Communication models are documented in the 
 A WG member may participate in various ways including:
 
 * Attending any of the group‘s [weekly teleconferences or F2F meetings](../Meetings/)
-* Participating in discussions on the group’s primary mail lists (see below), and/or a specification’s GitHub repository by way of Issues and Pull Requests. (See the [list of all repositories](https://github.com/search?q=topic%3A{{ site.wgname_lc }}-wg+org%3Aw3c&type=Repositories) of this Group.) 
+* Participating in discussions on the group’s primary mail lists (see below), and/or a specification’s GitHub repository by way of Issues and Pull Requests. (See the [list of all repositories](https://github.com/search?q=topic%3A{{ site.wgname_lc }}-wg+org%3Aw3c&type=Repositories) of this Group.)
 * Participating in discussions on the group’s `#{{ site.wgname_lc }}` IRC channel
 * Being an Editor of one or more of the group’s [active specifications](/PublStatus)
 * Being an implementer for one of the specifications (proof-of-concept implementations are fine!)
@@ -33,6 +33,8 @@ A WG member may participate in various ways including:
 A WG member is added to the group’s lists `public-{{ site.wgname_lc }}-wg@w3.org` and `member-{{ site.wgname_lc }}-wg@w3.org`; see the [separate section](#communications) for more details. Other mailing lists may be set up for task forces or other sub-committees; signing up to those list must be done manually.
 
 Participation from the Public (i.e., non group members), via our Public e-mail lists is also welcome, provided comments, contributions, etc., are consistent with the [W3C Patent Policy](https://www.w3.org/TR/patent-policy/).
+
+All participation is governed by the [W3C Code of Ethics and Professional Conduct (CEPC)](https://www.w3.org/Consortium/cepc/). The CEPC also extends to communications inside and outside of meetings, like email and GitHub comments. 
 
 ### Information for “Newbies” — New Group Members
 

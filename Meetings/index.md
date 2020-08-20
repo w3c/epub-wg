@@ -12,8 +12,8 @@ layout: default
 
 To accommodate the time zone differences the teleconferences alternate between two time slots:
 
-* Every second week, starting the 11th of September 2020, the call is on Fridays at 10:00 US Eastern times
-* Every second week, starting the 18th of September 2020, the call is on Thursdays at 18:00 US Eastern times
+* Every second week, starting the 11th of September 2020, the call is on Fridays at 10:00 US Eastern time
+* Every second week, starting the 18th of September 2020, the call is on Thursdays at 20:00 US Eastern time
 
 See the [separate page](./zoom) for the dial-in information, which also links to an ICS file to help setting the correct local times.
 
@@ -33,11 +33,17 @@ Meeting minutes (both for F2F and telcos) are listed [separately](./Minutes/).
 
 ### Minute taking
 
-Minutes are taken using IRC, and is based by a collective effort: one of the participants should be the scribe for (part of) a session. The `rrsagent` bot is used to archive the IRC log at the end of the call, and a separate tool (called [`scribejs`](https://github.com/w3c/scribejs/)) is used to generate the cleaned-up minutes that are published on the Working Group’s Web site.
+Minutes are taken using IRC, and is based by a collective effort: one of the participants should be the scribe for (part of) a session. The EPUB Working Group will be using a scribe rotation list to avoid relying on volunteers, if you are interested in scribing, please contact the [chairs](mailto:group-epub-wg-chairs@w3.org). The `rrsagent` bot is used to archive the IRC log at the end of the call, and a separate tool (called [`scribejs`](https://github.com/w3c/scribejs/)) is used to generate the cleaned-up minutes that are published on the Working Group’s Web site.
 
 Minute taking and cleanup is greatly helped by:
 
-* the scribe should used a number conventions, documented [`scribejs` features](https://github.com/w3c/scribejs/blob/master/features.md) separately.
+* consistent scribing, if you are the scribe, there's a number of features in  `scribejs` to help you and the person who cleans the minutes up keep the minutes clean and easy to read
+* scribing basics:
+  * `scribe+` / `scribe+ name` to add yourself or someone else as the scribe, more than one person can be a scribe for a meeting
+  * `name: ` to identify who is speaking, most IRC clients have a feature where typing the first letter(s) of a nickname and hitting TAB will complete the name
+  * `... ` is used to continue when then speaker you've identified is still speaking, but you need a new line - it is often easier as a scribe to break up the minutes as you're typing
+  * `s/[from]/[to]/` is used for correcting spelling errors or missing information, the person who cleans up the minutes can do this as well, so don't be too concerned about spelling errors
+* for more commands or functionality, they are detailed in the [`scribejs` features](https://github.com/w3c/scribejs/blob/master/features.md) repository
 * to help minute taking and cleaning them later, please use a consistent IRC handle; scribes should use that handle to identify the person speaking. `scribejs` automatically replaces the handle with the person’s full name, making the minutes more readable to outsiders.
     * note that in most IRC clients the `TAB` key can be used to expand to an existing irc handle
 

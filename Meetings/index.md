@@ -40,8 +40,8 @@ Minute taking and cleanup is greatly helped by:
 
 * consistent scribing, if you are the scribe, there's a number of features in  `scribejs` to help you and the person who cleans the minutes up keep the minutes clean and easy to read
 * scribing basics:
-  * `scribe+` / `scribe+ name` to add yourself or someone else as the scribe, more than one person can be a scribe for a meeting
-  * `name: ` to identify who is speaking, most IRC clients have a feature where typing the first letter(s) of a nickname and hitting TAB will complete the name
+  * `scribe+` / `scribe+ nickname` to add yourself or someone else as the scribe, more than one person can be a scribe for a meeting
+  * `nickname: ` to identify who is speaking, most IRC clients have a feature where typing the first letter(s) of a nickname and hitting TAB will complete the name
   * `... ` is used to continue when then speaker you've identified is still speaking, but you need a new line - it is often easier as a scribe to break up the minutes as you're typing
   * `s/[from]/[to]/` is used for correcting spelling errors or missing information, the person who cleans up the minutes can do this as well, so don't be too concerned about spelling errors
 * for more commands or functionality, they are detailed in the [`scribejs` features](https://github.com/w3c/scribejs/blob/master/features.md) repository

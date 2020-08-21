@@ -47,7 +47,7 @@ All participation is governed by the [W3C Code of Ethics and Professional Conduc
 #### Teleconferences
 {: #telco}
 
-Teleconferences are held weekly at a time agreed upon by the group. The meeting and its agenda is announced **at least 24 hours** before the meeting begins. Minutes are taken for every meeting and are automatically published after the meeting in a provisional format. A more readable, cleaned-up format is published usually within 24 hours after the meeting ends. These minutes are considered as “Drafts” until they are approved at the next teleconference when they become official.
+Teleconferences are held weekly at a time agreed upon by the group. The meeting and its agenda is announced **at least 24 hours** before the meeting begins. Minutes are taken for every meeting and are automatically published after the meeting in a provisional format. A more readable, cleaned-up format is published usually within 24 hours after the meeting ends. These minutes are considered as “Drafts” for at least 5 business days; participants of the call have that time ask for changes and/or rectifications on the minutes (such requests should be sent to the group’s public mailing list or via a Pull Request on the minutes themselves). After that (i.e., usually at the subsequent call) the minutes become official. 
 
 The charter also says that:
 

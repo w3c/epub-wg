@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Welcome to the DID Working Group
+# Welcome to the EPUB 3 Working Group
 {: .no_toc}
 
 This document includes some information for new members ("*Newbies*") of the DID Working Group (DID WG).

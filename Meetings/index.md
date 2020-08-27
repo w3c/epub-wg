@@ -26,7 +26,7 @@ The Group also uses IRC for during the calls for minute taking, queue control, a
 
 ## F2F meetings
 
-* (Virtual) TPAC 2020 (details T.B.D.)
+* [October 22/23, 2020](./F2F/2020_October) (Virtual F2F Meeting on Zoom)
 
 ## Meeting Minutes
 

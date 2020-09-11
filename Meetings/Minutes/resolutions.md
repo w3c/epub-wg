@@ -5,6 +5,7 @@ layout: default
 # List of Working Group Resolutions
 {: .no_toc}
 
+Note: resolutions are marked “<span class='provisional'>Provisional</span>” if the 1 week period after their acceptance has not yet passed.
 
 <div id='resolutions'>
 

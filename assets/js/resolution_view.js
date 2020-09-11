@@ -1,55 +1,105 @@
-const REMOTE_YEAR = 3000;
-
-async function display_resolutions(target_id, resolution_asset, header_level, call = null) {
-    /*
-     * Compare resolution objects; to be used in a sort method on array of objects.
-     * 
-     * Sorting takes a decreasing order by year, then a decreasing order by meeting date and then an increasing order by resolution number
-     */
-    const sort_resolutions = (a,b) => {
-        if (a.year === b.year) {
-            if (a.date === b.date) {
-                return a.number - b.number;
-            } else {
-                if (a.date < b.date) {
-                    return 1;
-                } else if (a.date > b.date) {
-                    return -1;
-                } 
+var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+var __generator = (this && this.__generator) || function (thisArg, body) {
+    var _ = { label: 0, sent: function() { if (t[0] & 1) throw t[1]; return t[1]; }, trys: [], ops: [] }, f, y, t, g;
+    return g = { next: verb(0), "throw": verb(1), "return": verb(2) }, typeof Symbol === "function" && (g[Symbol.iterator] = function() { return this; }), g;
+    function verb(n) { return function (v) { return step([n, v]); }; }
+    function step(op) {
+        if (f) throw new TypeError("Generator is already executing.");
+        while (_) try {
+            if (f = 1, y && (t = op[0] & 2 ? y["return"] : op[0] ? y["throw"] || ((t = y["return"]) && t.call(y), 0) : y.next) && !(t = t.call(y, op[1])).done) return t;
+            if (y = 0, t) op = [op[0] & 2, t.value];
+            switch (op[0]) {
+                case 0: case 1: t = op; break;
+                case 4: _.label++; return { value: op[1], done: false };
+                case 5: _.label++; y = op[1]; op = [0]; continue;
+                case 7: op = _.ops.pop(); _.trys.pop(); continue;
+                default:
+                    if (!(t = _.trys, t = t.length > 0 && t[t.length - 1]) && (op[0] === 6 || op[0] === 2)) { _ = 0; continue; }
+                    if (op[0] === 3 && (!t || (op[1] > t[0] && op[1] < t[3]))) { _.label = op[1]; break; }
+                    if (op[0] === 6 && _.label < t[1]) { _.label = t[1]; t = op; break; }
+                    if (t && _.label < t[2]) { _.label = t[2]; _.ops.push(op); break; }
+                    if (t[2]) _.ops.pop();
+                    _.trys.pop(); continue;
             }
-        } else {
-            return b.year - a.year;
-        }
+            op = body.call(thisArg, _);
+        } catch (e) { op = [6, e]; y = 0; } finally { f = t = 0; }
+        if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
     }
-
-    /*
-    * Generate the HTML listing of all the resolutions
-    */
-    const retrieve_html = (resolutions) => {
-        let retval = '';
-        // y2k problem for the future:-)
-        let year   = REMOTE_YEAR;
-        if (resolutions.length === 0) {
-            return `${retval}`;
-        } else {
-            resolutions.forEach(resolution => {
-                if (resolution.year < year) {
-                    // Close the previous list if there was any
-                    if (year !== REMOTE_YEAR) {
-                        retval = `${retval}</ul>\n`
-                    }
-                    retval = `${retval}\n<h${header_level}>${resolution.year}</h${header_level}>\n<ul>\n`
-                    year = resolution.year;
-                }
-                retval = `${retval}<li><a href="${resolution.url}">Resolution #${resolution.number} on ${resolution.date}</a>: ${resolution.text}</li>\n`;
-            });
-            return `${retval}</ul>\n</div>`;    
-        }
-    }
-
-    const target                = document.getElementById(target_id);
-    const resolution_structures = await (await fetch(resolution_asset)).json();
-    const resolutions = (call !== null) ? resolution_structures.resolutions.filter((resolution) => resolution.call === call) : resolution_structures.resolutions;
- 
-    target.innerHTML = retrieve_html(resolutions.sort(sort_resolutions));
+};
+var REMOTE_YEAR = 3000;
+var Ms_a_day = 86400000;
+var Resolution_days = 7;
+var PROVISIONAL_LIMIT = Ms_a_day * Resolution_days;
+function display_resolutions(target_id, resolution_asset, header_level, call) {
+    if (call === void 0) { call = null; }
+    return __awaiter(this, void 0, void 0, function () {
+        var today, sort_resolutions, retrieve_html, target, resolution_structures, resolutions;
+        return __generator(this, function (_a) {
+            switch (_a.label) {
+                case 0:
+                    today = new Date();
+                    sort_resolutions = function (a, b) {
+                        if (a.year === b.year) {
+                            if (a.date === b.date) {
+                                return a.number - b.number;
+                            }
+                            else if (a.date < b.date) {
+                                return 1;
+                            }
+                            else {
+                                return -1;
+                            }
+                        }
+                        else {
+                            return b.year - a.year;
+                        }
+                    };
+                    retrieve_html = function (resolutions) {
+                        var retval = '';
+                        // y2k problem for the future:-)
+                        var year = REMOTE_YEAR;
+                        if (resolutions.length === 0) {
+                            return "" + retval;
+                        }
+                        else {
+                            resolutions.forEach(function (resolution) {
+                                if (resolution.year < year) {
+                                    // Close the previous list if there was any
+                                    if (year !== REMOTE_YEAR) {
+                                        retval = retval + "</ul>\n";
+                                    }
+                                    retval = retval + "\n<h" + header_level + ">" + resolution.year + "</h" + header_level + ">\n<ul>\n";
+                                    year = resolution.year;
+                                }
+                                // See if the resolution is final or still provisional
+                                var res_date = new Date(resolution.date);
+                                var provisional = (today.valueOf() - res_date.valueOf()) < PROVISIONAL_LIMIT;
+                                retval = retval + "<li><a href=\"" + resolution.url + "\">Resolution #" + resolution.number + " on " + resolution.date + "</a>: " + resolution.text;
+                                if (provisional) {
+                                    retval = retval + " <span class='provisional'>(Provisional)</span>";
+                                }
+                                retval = retval + "</li>\n";
+                            });
+                            return retval + "</ul>\n</div>";
+                        }
+                    };
+                    target = document.getElementById(target_id);
+                    return [4 /*yield*/, fetch(resolution_asset)];
+                case 1: return [4 /*yield*/, (_a.sent()).json()];
+                case 2:
+                    resolution_structures = (_a.sent());
+                    resolutions = (call !== null) ? resolution_structures.resolutions.filter(function (resolution) { return resolution.call === call; }) : resolution_structures.resolutions;
+                    target.innerHTML = retrieve_html(resolutions.sort(sort_resolutions));
+                    return [2 /*return*/];
+            }
+        });
+    });
 }

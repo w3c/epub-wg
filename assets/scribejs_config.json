@@ -5,5 +5,5 @@
 	"group"        : "epub",
     "nicknames"    : "https://www.w3.org/publishing/groups/epub-wg/assets/nicknames.json",
     "acrepo"       : "w3c/epub-wg",
-    "acurlpattern" : "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/%YEAR%/%DATE%-epub"
+    "acurlpattern" : "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/%DATE%-epub"
 }

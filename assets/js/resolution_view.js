@@ -57,7 +57,16 @@ const sort_resolutions = (a, b) => {
         return b.year - a.year;
     }
 };
-async function display_resolutions(target_id, resolution_asset, header_level, call = null) {
+/**
+ * Display the resolutions in a list.
+ *
+ * @param target_id - the div element’s ID that should include the full list
+ * @param resolution_asset - the (relative) URL of the resolution asset file
+ * @param header_level - the header level (i.e., the number in the `<hx>` element to be used for the years)
+ * @param check_provisional - check whether a resolution is to be checked against the 7 days limit
+ * @param call - the type of call (as stored in the [[Resolution]] object) to filter the resolutions (important if task force calls have their own calls and resolutions)
+ */
+async function display_resolutions(target_id, resolution_asset, header_level, check_provisional = true, call = null) {
     const today = new Date();
     /*
     * Generate the HTML listing of all the resolutions
@@ -82,7 +91,7 @@ async function display_resolutions(target_id, resolution_asset, header_level, ca
                 // See if the resolution is final or still provisional
                 const res_date = new Date(resolution.date);
                 retval = `${retval}<li><a href="${resolution.url}">Resolution #${resolution.number} on ${resolution.date}</a>: ${resolution.text}`;
-                if (getDaysBetweenDates(res_date, today) < PROVISIONAL_LIMIT) {
+                if (check_provisional && getDaysBetweenDates(res_date, today) < PROVISIONAL_LIMIT) {
                     retval = `${retval} <span class='provisional'>(Provisional)</span>`;
                 }
                 retval = `${retval}</li>\n`;

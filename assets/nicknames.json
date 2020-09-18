@@ -139,7 +139,8 @@
     },
     {
         "nick": [
-            "Hadrien"
+            "Hadrien",
+            "HadrienGardeur"
         ],
         "name": "Hadrien Gardeur",
         "github": "HadrienGardeur"
@@ -280,7 +281,9 @@
         "github": "toshiakikoike"
     },
     {
-        "nick": [],
+        "nick": [
+            "rkuroda"
+        ],
         "name": "Ryo Kuroda"
     },
     {
@@ -385,7 +388,9 @@
         "name": "Karen Myers"
     },
     {
-        "nick": [],
+        "nick": [
+            "Yoichiro"
+        ],
         "name": "Yoichiro Nagao"
     },
     {
@@ -516,6 +521,12 @@
         "name": "Motoi Suzuki"
     },
     {
+        "nick" : [
+            "kyrce"
+        ],
+        "name": "Kyrce Swenson"
+    },
+    {
         "nick": [
             "ralph"
         ],
@@ -579,6 +590,7 @@
         "nick": [
             "jeff_xu",
             "zheng_xu",
+            "zhengxu",
             "zheng"
         ],
         "name": "Zheng Xu (Jeff)",

@@ -1,9 +1,19 @@
 {
-    "date": "2020-09-11T15:42:09.274Z",
+    "date": "2020-09-25T15:12:41.520Z",
     "short_names": [
-        "2020-09-11-epub.md"
+        "2020-09-11-epub.md",
+        "2020-09-17-epub.md",
+        "2020-09-25-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2020,
+            "date": "2020-09-25",
+            "number": 1,
+            "text": "we will publish the following documents: EPUB 3.3 Content, EPUB 3.3 RS, Accessibility 1.1, Media Overlays 3.3",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-09-25-epub#resolution1",
+            "call": "epub"
+        },
         {
             "year": 2020,
             "date": "2020-09-11",

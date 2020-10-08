@@ -490,6 +490,12 @@
     },
     {
         "nick": [
+            "shinobu"
+        ],
+        "name": "Shinobu Sato"
+    },
+    {
+        "nick": [
             "BenSchroeter"
         ],
         "name": "Ben Schroeter",
@@ -610,7 +616,7 @@
             "zhengxu",
             "zheng"
         ],
-        "name": "Zheng Xu (Jeff)",
+        "name": "Zheng Xu (徐征)",
         "github": "rakutenjeff"
     },
     {

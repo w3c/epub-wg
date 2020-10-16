@@ -1,13 +1,22 @@
 {
-    "date": "2020-10-09T15:15:42.815Z",
+    "date": "2020-10-16T09:16:23.340Z",
     "short_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
         "2020-09-25-epub.md",
         "2020-10-01-epub.md",
-        "2020-10-09-epub.md"
+        "2020-10-09-epub.md",
+        "2020-10-15-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2020,
+            "date": "2020-10-15",
+            "number": 1,
+            "text": "Add WebP as a core media type in EPUB 3.3",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-10-15-epub#resolution1",
+            "call": "epub"
+        },
         {
             "year": 2020,
             "date": "2020-10-09",

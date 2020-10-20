@@ -69,3 +69,7 @@ table.zebra td{border-bottom:1px solid #ddd;padding:.2em 1em;}
 span.provisional {
     color: red;
 }
+
+.table_footer {
+    font-size: smaller;
+}

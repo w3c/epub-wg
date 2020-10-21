@@ -11,4 +11,4 @@ layout: default
 
     (Note that these times are the same as for our regular calls, except for the duration)
 * Location: the same Zoom values as for our regular calls; see [our member confidential announcement](https://lists.w3.org/Archives/Member/member-{{ site.wgname_lc }}-wg/2020Aug/0000.html) for the dial-in data
-* Agenda: T.B.D.
+* Agenda: See [Agenda mail](https://lists.w3.org/Archives/Public/public-epub-wg/2020Oct/0034.html)

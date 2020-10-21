@@ -4,7 +4,7 @@
 	"ghbranch"     : "master",
 	"group"        : "epub",
 	"auto"         : true,
-    "nicknames"    : "https://www.w3.org/publishing/groups/epub-wg/assets/nicknames.json",
+    "nicknames"    : "https://www.w3.org/publishing/assets/nicknames.json",
     "acrepo"       : "w3c/epub-wg",
     "acurlpattern" : "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/%DATE%-epub"
 }

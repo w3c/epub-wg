@@ -1,14 +1,31 @@
 {
-    "date": "2020-10-16T09:16:23.340Z",
+    "date": "2020-10-23T12:52:09.333Z",
     "short_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
         "2020-09-25-epub.md",
         "2020-10-01-epub.md",
         "2020-10-09-epub.md",
-        "2020-10-15-epub.md"
+        "2020-10-15-epub.md",
+        "2020-10-22-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2020,
+            "date": "2020-10-22",
+            "number": 1,
+            "text": "The nav order SHOULD match the spine order and the content order",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-10-22-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2020,
+            "date": "2020-10-22",
+            "number": 2,
+            "text": "remove bullet \"External identifiers MUST NOT appear in the document type declaration [XML].\" Add reading system conformance saying that reading systems SHOULD NOT validate against DTDs.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-10-22-epub#resolution2",
+            "call": "epub"
+        },
         {
             "year": 2020,
             "date": "2020-10-15",

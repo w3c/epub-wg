@@ -12,3 +12,6 @@ layout: default
     (Note that these times are the same as for our regular calls, except for the duration)
 * Location: the same Zoom values as for our regular calls; see [our member confidential announcement](https://lists.w3.org/Archives/Member/member-{{ site.wgname_lc }}-wg/2020Aug/0000.html) for the dial-in data
 * Agenda: See [Agenda mail](https://lists.w3.org/Archives/Public/public-epub-wg/2020Oct/0034.html)
+* Meeting minutes:
+  * First day: [2020-10-22/23](https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-10-22-epub)
+  * Second day: [2020-10-23](https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-10-23-epub)  

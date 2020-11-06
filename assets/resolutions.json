@@ -1,5 +1,5 @@
 {
-    "date": "2020-10-23T12:52:09.333Z",
+    "date": "2020-11-06T16:11:38.086Z",
     "short_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -7,9 +7,27 @@
         "2020-10-01-epub.md",
         "2020-10-09-epub.md",
         "2020-10-15-epub.md",
-        "2020-10-22-epub.md"
+        "2020-10-22-epub.md",
+        "2020-10-23-epub.md",
+        "2020-11-06-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2020,
+            "date": "2020-11-06",
+            "number": 1,
+            "text": "Merge PR #1368 to address outstanding DTD issues, and close GH issues 1369-1373",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-11-06-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2020,
+            "date": "2020-11-06",
+            "number": 2,
+            "text": "Merge #1347 with an additional warning about support for WebP",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-11-06-epub#resolution2",
+            "call": "epub"
+        },
         {
             "year": 2020,
             "date": "2020-10-22",

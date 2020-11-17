@@ -1,5 +1,6 @@
 {
 	"ghrepo"       : "w3c/epub-wg",
+	"issuerepo"    : "w3c/epub-specs",
 	"ghpath"       : "_minutes",
 	"ghbranch"     : "master",
 	"group"        : "epub",

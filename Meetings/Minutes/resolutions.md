@@ -25,7 +25,7 @@ Note: resolutions are marked “<span class='provisional'>Provisional</span>” 
 
 <script type='text/javascript'>
     window.addEventListener('load', () => {
-        display_resolutions('resolutions', '../../assets/resolutions.json', 3, true, 'epub');
-        display_resolutions('a11y', '../../assets/resolutions.json', 3, false, 'epub-a11y');
+        display_resolutions('resolutions', '../../assets/minute_processing.json', 3, true, 'epub');
+        display_resolutions('a11y', '../../assets/minute_processing.json', 3, false, 'epub-a11y');
     });
 </script>

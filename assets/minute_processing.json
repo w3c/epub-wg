@@ -1,4 +1,5 @@
 {
+    "date": "2020-12-04T16:14:47.714Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -12,9 +13,18 @@
         "2020-11-12-epub-a11y.md",
         "2020-11-12-epub.md",
         "2020-11-20-epub.md",
-        "2020-11-26-epub-a11y.md"
+        "2020-11-26-epub-a11y.md",
+        "2020-12-04-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2020,
+            "date": "2020-12-04",
+            "number": 1,
+            "text": "EPUB 3.3 will keep the concept of core media types as it is today.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-12-04-epub#resolution1",
+            "call": "epub"
+        },
         {
             "year": 2020,
             "date": "2020-11-20",
@@ -111,6 +121,5 @@
             "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-09-11-epub#resolution1",
             "call": "epub"
         }
-    ],
-    "date": "2020-11-25T11:09:13.015Z"
+    ]
 }

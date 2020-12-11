@@ -1,5 +1,5 @@
 {
-    "date": "2020-12-11T09:20:26.455Z",
+    "date": "2020-12-11T11:02:57.455Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -15,10 +15,42 @@
         "2020-11-20-epub.md",
         "2020-11-26-epub-a11y.md",
         "2020-12-04-epub.md",
-        "2020-12-10-epub-a11y.md",
-        "2020-12-11-epub.md"
+        "2020-12-11-epub.md",
+        "2020-12-10-epub-a11y.md"
     ],
     "resolutions": [
+        {
+            "year": 2020,
+            "date": "2020-12-10",
+            "number": 1,
+            "text": "We are not having success criteria of aligning nav doc with spine, but we will have a technique for it..",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-12-10-epub-a11y#resolution1",
+            "call": "epub-a11y"
+        },
+        {
+            "year": 2020,
+            "date": "2020-12-10",
+            "number": 2,
+            "text": "associate <code>CertifiedBy</code> with <code>CertifierCredentials</code> with refine.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-12-10-epub-a11y#resolution2",
+            "call": "epub-a11y"
+        },
+        {
+            "year": 2020,
+            "date": "2020-12-10",
+            "number": 3,
+            "text": "We will not add <code>accessmodesufficient=visual</code> for text content, instead we will clarify why it should not be done.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-12-10-epub-a11y#resolution3",
+            "call": "epub-a11y"
+        },
+        {
+            "year": 2020,
+            "date": "2020-12-10",
+            "number": 4,
+            "text": "Refer to epub-specs GitHub issue tracker..",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-12-10-epub-a11y#resolution4",
+            "call": "epub-a11y"
+        },
         {
             "year": 2020,
             "date": "2020-12-11",

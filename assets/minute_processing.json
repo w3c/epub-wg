@@ -1,5 +1,5 @@
 {
-    "date": "2020-12-04T16:14:47.714Z",
+    "date": "2020-12-11T09:20:26.455Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -14,9 +14,35 @@
         "2020-11-12-epub.md",
         "2020-11-20-epub.md",
         "2020-11-26-epub-a11y.md",
-        "2020-12-04-epub.md"
+        "2020-12-04-epub.md",
+        "2020-12-10-epub-a11y.md",
+        "2020-12-11-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2020,
+            "date": "2020-12-11",
+            "number": 1,
+            "text": "Remove mentions of multiple renditions from the core and reading systems documents, close issue #1436 and merge PR #1438.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-12-11-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2020,
+            "date": "2020-12-11",
+            "number": 2,
+            "text": "Publish Multiple Renditions as a Working Group Note.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-12-11-epub#resolution2",
+            "call": "epub"
+        },
+        {
+            "year": 2020,
+            "date": "2020-12-11",
+            "number": 3,
+            "text": "Publish Overview as a Working Group Note.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2020-12-11-epub#resolution3",
+            "call": "epub"
+        },
         {
             "year": 2020,
             "date": "2020-12-04",

@@ -1,0 +1,53 @@
+To be sent to the webmaster, comm team, coralie, xueyuan, plh, WG chairs, and matt
+
+(Coralie, Xueyuan, this is for information only; I will send you the HPN news draft separately)
+
+Denis,
+
+This is an official publication request on behalf of the EPUB WG Working Group for the publication of two FPWD for Rec track, and two First Public Working Group Notes. The publication date should be on Tuesday, 12 January 2021.
+
+The FPWD requests to the Director are in:
+
+- for the two rec-track documents: https://github.com/w3c/transitions/issues/293
+- for the two notes: https://github.com/w3c/transitions/issues/294
+
+The documents are as follows:
+-----------------------------
+
+The rec-track documents:
+
+- EPUB 3.3
+    - Dated URL: https://www.w3.org/TR/2021/WD-epub-33-20210112/
+    - Undated URL: https://www.w3.org/TR/epub-33/
+    - Editors' draft: https://w3c.github.io/epub-specs/epub33/core/
+
+- EPUB 3.3 Reading Systems
+    - Dated URL: https://www.w3.org/TR/2021/WD-epub-rs-33-20210112/
+    - Undated URL: https://www.w3.org/TR/epub-rs-33/
+    - Editors' Draft: https://w3c.github.io/epub-specs/epub33/rs/
+
+
+The non rec-track documents:
+
+- EPUB 3 Overview
+    - Dated URL: https://www.w3.org/TR/2021/NOTE-epub-overview-33-20210112/
+    - Undated URL: https://www.w3.org/TR/epub-overview-33/
+    - Editors' draft: https://w3c.github.io/epub-specs/epub33/overview/
+- EPUB Multiple-Rendition Publications 1.1
+    - Dated URL: https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210112/
+    - Undated URL: https://www.w3.org/TR/epub-multi-rend-11/
+    - Editors' draft: https://w3c.github.io/epub-specs/epub33/multi-rend/
+
+
+Abstract and Status Sections:
+-----------------------------
+
+See the previous URL-s
+
+The document have already been installed; they all pass pubrules and the link checker.
+
+The right 'bucket' on our TR page for the documents is "Digital Publishing". 
+
+Thanks!
+
+Ivan

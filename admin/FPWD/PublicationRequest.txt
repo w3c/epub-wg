@@ -1,12 +1,14 @@
-To be sent to the webmaster, comm team, coralie, xueyuan, plh, WG chairs, and matt
+Sent to the webmaster, comm team, coralie, xueyuan, plh, WG chairs, and matt on the 2021-01-06, https://lists.w3.org/Archives/Team/webreq/2021Jan/0000.html
+
+---
 
 (Coralie, Xueyuan, this is for information only; I will send you the HPN news draft separately)
 
 Denis,
 
-This is an official publication request on behalf of the EPUB WG Working Group for the publication of two FPWD for Rec track, and two First Public Working Group Notes. The publication date should be on Tuesday, 12 January 2021.
+This is an official publication request on behalf of the EPUB 3 WG Working Group for the publication of two FPWD for Rec track, and two First Public Working Group Notes. The publication date should be on Tuesday, 12 January 2021.
 
-The FPWD requests to the Director are in:
+The FPWD requests to the Director, that also includes their respective approval, are in:
 
 - for the two rec-track documents: https://github.com/w3c/transitions/issues/293
 - for the two notes: https://github.com/w3c/transitions/issues/294
@@ -33,6 +35,7 @@ The non rec-track documents:
     - Dated URL: https://www.w3.org/TR/2021/NOTE-epub-overview-33-20210112/
     - Undated URL: https://www.w3.org/TR/epub-overview-33/
     - Editors' draft: https://w3c.github.io/epub-specs/epub33/overview/
+
 - EPUB Multiple-Rendition Publications 1.1
     - Dated URL: https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210112/
     - Undated URL: https://www.w3.org/TR/epub-multi-rend-11/
@@ -42,7 +45,7 @@ The non rec-track documents:
 Abstract and Status Sections:
 -----------------------------
 
-See the previous URL-s
+See the previous URL-s.
 
 The document have already been installed; they all pass pubrules and the link checker.
 

@@ -1,5 +1,5 @@
 {
-    "date": "2020-12-18T16:16:24.585Z",
+    "date": "2021-01-08T05:24:30.800Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -17,9 +17,26 @@
         "2020-12-04-epub.md",
         "2020-12-11-epub.md",
         "2020-12-10-epub-a11y.md",
-        "2020-12-18-epub.md"
+        "2020-12-18-epub.md",
+        "2021-01-07-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-01-07",
+            "number": 1,
+            "text": "Close #1422, leaving the language in the content document as is.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-01-07-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-01-07",
+            "number": 2,
+            "text": "Change the language for <code>rendition:flow</code> to define the default is auto, but remove the MUST statement/ untestable assertion.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-01-07-epub#resolution2",
+            "call": "epub"
+        },
         {
             "year": 2020,
             "date": "2020-12-18",

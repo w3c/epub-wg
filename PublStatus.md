@@ -6,27 +6,22 @@ layout: default
 {: no_toc}
 
 
-## Latest versions of documents
+## Group publications
 
-<div data-apiary="specifications"></div>
-
-## Editors’ drafts, repositories
-
-| Document | Editors’ Draft | Latest Publication |
-|----------|:--------------:|:---------:|
-| EPUB 3.3 Overview<sup>†<sup>   | [ED](https://w3c.github.io/epub-specs/epub33/overview/)                | [Note](https://www.w3.org/TR/epub-overview-33/) |
-| EPUB 3.3                       | [ED](https://w3c.github.io/epub-specs/epub33/core/)                    | [WD](https://www.w3.org/TR/epub-33/) |
-| EPUB 3.3 Reading Systems       | [ED](https://w3c.github.io/epub-specs/epub33/rs/)                      | [WD](https://www.w3.org/TR/epub-rs-33/) |
-| EPUB Multiple-Rendition Publications 1.1<sup>†<sup> | [ED](https://w3c.github.io/epub-specs/epub33/rs/) | [Note](https://www.w3.org/TR/epub-multi-rend-11/) |
-| EPUB Accessibility 1.1         | [ED](https://w3c.github.io/epub-specs/epub33/a11y/)     | n.a. |
+| Document | Official Publication | Editors’ Draft |
+|----------|:--------------:|:-----------------:|
+| EPUB 3.3 Overview<sup>†<sup>   | [WD](https://www.w3.org/TR/epub-overview-33/) | [ED](https://w3c.github.io/epub-specs/epub33/overview/)                
+| EPUB 3.3                       |  [WD](https://www.w3.org/TR/epub-33/) | [ED](https://w3c.github.io/epub-specs/epub33/core/)                    
+| EPUB 3.3 Reading Systems       |  [WD](https://www.w3.org/TR/epub-rs-33/) | [ED](https://w3c.github.io/epub-specs/epub33/rs/)                      
+| EPUB Multiple-Rendition Publications 1.1<sup>†<sup> | [WD](https://www.w3.org/TR/epub-multi-rend-11/) | [ED](https://w3c.github.io/epub-specs/epub33/rs/) 
+| EPUB Accessibility 1.1         |  n.a. | [ED](https://w3c.github.io/epub-specs/epub33/a11y/)     
 {: .zebra}
-
 
 <sup>†</sup> Non rec-track document
 {: .table_footer}
 
 
-## Major planned milestones (from the charter)
+## Major planned (and realized) charter milestones
 
 The names of the official WG documents differ from the ones listed is in the charter. Some documents from the charter, have been merged or split. The transformation has been made in two steps:
 
@@ -36,12 +31,12 @@ The names of the official WG documents differ from the ones listed is in the cha
 These two steps resulted in the EPUB 3.3 and the EPUB 3.3 Reading Systems documents. The EPUB Accessibility document remained, in this respect, unchanged. All these changes were purely editorial.
 
 * EPUB 3.3:
-    * First Public Working Draft (FPWD): January 2021
+    * First Public Working Draft (FPWD): February 2021 (January 2021)
     * Candidate Recommendation (CR): November 2021
     * Proposed Recommendation (PR): December 2022
     * Recommendation (REC): February 2023.
 * EPUB 3.3 Reading Systems:
-    * First Public Working Draft (FPWD): January 2021
+    * First Public Working Draft (FPWD): February 2021 (January 2021)
     * Candidate Recommendation (CR): November 2021
     * Proposed Recommendation (PR): December 2022
     * Recommendation (REC): February 2023.

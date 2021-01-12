@@ -33,7 +33,7 @@ The names of the official WG documents differ from the ones listed is in the cha
 1. merge of EPUB 3.X, Packages 3.X, Content Documents 3.X, Open Container Format 3.X, and Media Overlay 3.X into one document, removing the duplications;
 2. separation the issues on Reading Systems Conformance into a separate recommendation-track document.
 
-These two steps resulted in the EPUB 3.3 and the EPUB 3.3 Reading Systems documents. The EPUB Accessibility document remained, in this respect, unchanged. All these changes were purely editorial
+These two steps resulted in the EPUB 3.3 and the EPUB 3.3 Reading Systems documents. The EPUB Accessibility document remained, in this respect, unchanged. All these changes were purely editorial.
 
 * EPUB 3.3:
     * First Public Working Draft (FPWD): January 2021

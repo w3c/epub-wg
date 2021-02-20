@@ -1,0 +1,46 @@
+Sent to the webmaster, comm team, coralie, xueyuan, plh, WG chairs, Avneesh, and matt on the 2021-02-19, https://lists.w3.org/Archives/Team/webreq/2021Feb/0043.html
+
+---
+
+(Coralie, Xueyuan, this is for information only; I will send you the HPN news draft separately)
+
+Denis,
+
+This is an official publication request on behalf of the EPUB 3 WG Working Group for the publication of one FPWD for Rec track, and one First Public Working Group Note. The publication date should be on Tuesday, 23 January 2021.
+
+The FPWD requests to the Director, that also includes their respective approval, are in:
+
+- for the rec track document: https://github.com/w3c/transitions/issues/314
+- for the note: https://github.com/w3c/transitions/issues/313
+
+The documents are as follows:
+-----------------------------
+
+The rec-track document:
+
+- EPUB Accessibility 1.1
+    - Dated URL: https://www.w3.org/TR/2021/WD-epub-a11y-11-20210223/
+    - Undated URL: https://www.w3.org/TR/epub-a11y-11/
+    - Editors' draft: https://w3c.github.io/epub-specs/epub33/a11y/
+
+
+The non rec-track document:
+
+- EPUB Accessibility Techniques 1.1
+    - Dated URL: https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210223/
+    - Undated URL: https://www.w3.org/TR/epub-a11y-tech-11/
+    - Editors' draft: https://w3c.github.io/epub-specs/epub33/a11y-tech/
+
+
+Abstract and Status Sections:
+-----------------------------
+
+See the previous URL-s.
+
+The document have already been installed; they all pass pubrules and the link checker.
+
+The right 'bucket' on our TR page for the documents is "Digital Publishing", but also "Accessibility". 
+
+Thanks!
+
+Ivan

@@ -39,79 +39,77 @@
     {% include header.html %}
     <main>
         {% include nav.html %}
-        <section id='topcontent'>
-            <section id='content'>
-                <h1 style="border-bottom: 1px solid #ccc">
-                    {{ site.wgname_uc }} Working Group
-                </h1>
+        <section id='content'>
+            <h1 style="border-bottom: 1px solid #ccc">
+                {{ site.wgname_uc }} Working Group
+            </h1>
 
-                <!-- <script src="https://w3c.github.io/apiary/apiary.js"></script> -->
+            <!-- <script src="https://w3c.github.io/apiary/apiary.js"></script> -->
 
-                <section id=mission> 
-                    <p>{{ site.mission }}</p>
+            <section id=mission> 
+                <p>{{ site.mission }}</p>
 
-                    <p>The co-chairs of the group are 
-                        <!-- <a href="mailto:dauwhe@hey.com">Dave Cramer</a> (Hachette Livre),  -->
-                        <a href="mailto:wendy.reid@rakuten.com">Wendy Reid</a> (Rakuten Kobo), and 
-                        <a href="mailto:takami-s@kadokawa.jp">Shinya Takami</a> (Kadokawa/Bookwalker).
-                        The staff contact is <a href="mailto:ivan@w3.org">Ivan Herman</a>.
-                        The group is chartered until 28th of February, 2023.
-                    </p>
-                </section>
-    
-                <section >
-                    {{ content }}
-                </section>
-
-                <!-- <section id='participants'>
-                    <h2>Specifications</h2>
-                    <div data-apiary="specifications">[Loading...]</div>
-                </section> -->
-    
-                <section id="minutes">
-                    <h2>Recent Meeting Minutes</h2>
-                    <ul class="inline">
-                    {% assign minutes_length = site.minutes | size %}
-                    {% assign reversed_minutes = site.minutes | reverse %}
-                    {% for item in reversed_minutes limit:5 %}
-                    <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.date | date: '%d %B' }}</a></li>
-                    {% endfor %}
-                    {% if minutes_length > 5 %}
-                        <li><a href="Meetings/Minutes/">more...</a></li>
-                    {% endif %}
-                    </ul>
-                </section>
-
-                <!-- <iframe src="https://www.w3.org/groups/wg/{{ site.wgname_lc }}" frameborder="0" width="100%" height="500">
-
-                </iframe>
-    -->
-
-                <section id="group_details">
-                    <h2>Group details</h2>
-                    <ul>
-                        <li><a href="{{ site.baseurl }}/PublStatus">Publication status and milestones</a></li>
-                        <li><a rel="external" href="https://www.w3.org/groups/wg/{{ site.wgname_lc }}/participants?sortaff=1">Participants</a></li>
-                        <!-- <li><a rel="external" href="https://www.w3.org/PM/Groups/issueboard.html?gid={{ site.groupid }}">Open github issues</a></li> -->
-                        <li><a rel="external" href="https://www.w3.org{{ site.charter }}">Charter</a></li>
-                        <li><a rel="external" href="https://www.w3.org/2004/01/pp-impl/{{ site.groupid }}/status">Patent Policy Status</a></li>
-                        <li>Open issues
-                            <ul>
-                                <li><a href="https://github.com/w3c/publ-epub-revision/issues">Specification issues</a></li>
-                                <li><a href="https://github.com/w3c/epub-wg/issues">General WG issues</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </section>
-
-
-                <!-- <section id='articles'>
-                    <h2>Latest activity news</h2>
-                    <p>(See the <a href="https://www.w3.org/blog/category/technology/{{ site.wgname_lc }}/">activity blog</a> for all the news.)</p>
-                </section> -->
+                <p>The co-chairs of the group are 
+                    <!-- <a href="mailto:dauwhe@hey.com">Dave Cramer</a> (Hachette Livre),  -->
+                    <a href="mailto:wendy.reid@rakuten.com">Wendy Reid</a> (Rakuten Kobo), and 
+                    <a href="mailto:takami-s@kadokawa.jp">Shinya Takami</a> (Kadokawa/Bookwalker).
+                    The staff contact is <a href="mailto:ivan@w3.org">Ivan Herman</a>.
+                    The group is chartered until 28th of February, 2023.
+                </p>
             </section>
-            {% include aside.html %}
+
+            <section >
+                {{ content }}
+            </section>
+
+            <!-- <section id='participants'>
+                <h2>Specifications</h2>
+                <div data-apiary="specifications">[Loading...]</div>
+            </section> -->
+
+            <section id="minutes">
+                <h2>Recent Meeting Minutes</h2>
+                <ul class="inline">
+                {% assign minutes_length = site.minutes | size %}
+                {% assign reversed_minutes = site.minutes | reverse %}
+                {% for item in reversed_minutes limit:5 %}
+                <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.date | date: '%d %B' }}</a></li>
+                {% endfor %}
+                {% if minutes_length > 5 %}
+                    <li><a href="Meetings/Minutes/">more...</a></li>
+                {% endif %}
+                </ul>
+            </section>
+
+            <!-- <iframe src="https://www.w3.org/groups/wg/{{ site.wgname_lc }}" frameborder="0" width="100%" height="500">
+
+            </iframe>
+-->
+
+            <section id="group_details">
+                <h2>Group details</h2>
+                <ul>
+                    <li><a href="{{ site.baseurl }}/PublStatus">Publication status and milestones</a></li>
+                    <li><a rel="external" href="https://www.w3.org/groups/wg/{{ site.wgname_lc }}/participants?sortaff=1">Participants</a></li>
+                    <!-- <li><a rel="external" href="https://www.w3.org/PM/Groups/issueboard.html?gid={{ site.groupid }}">Open github issues</a></li> -->
+                    <li><a rel="external" href="https://www.w3.org{{ site.charter }}">Charter</a></li>
+                    <li><a rel="external" href="https://www.w3.org/2004/01/pp-impl/{{ site.groupid }}/status">Patent Policy Status</a></li>
+                    <li>Open issues
+                        <ul>
+                            <li><a href="https://github.com/w3c/publ-epub-revision/issues">Specification issues</a></li>
+                            <li><a href="https://github.com/w3c/epub-wg/issues">General WG issues</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </section>
+
+
+            <!-- <section id='articles'>
+                <h2>Latest activity news</h2>
+                <p>(See the <a href="https://www.w3.org/blog/category/technology/{{ site.wgname_lc }}/">activity blog</a> for all the news.)</p>
+            </section> -->
         </section>
+        {% include aside.html %}
     </main>
     {% include footer.html %}
 </body>

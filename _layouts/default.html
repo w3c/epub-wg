@@ -35,15 +35,13 @@
         <script src="https://w3c.github.io/apiary/apiary.js"></script>
 
         {% include nav.html %}
-        <section id='topcontent'>
-            <section id='content'>
-                <h1 style="border-bottom: 1px solid #ccc">
-                    {{ site.wgname_uc }} Working Group
-                </h1>
-                {{ content }}
-            </section>
-            {% include aside.html %}
+        <section id='content'>
+            <h1 style="border-bottom: 1px solid #ccc">
+                {{ site.wgname_uc }} Working Group
+            </h1>
+            {{ content }}
         </section>
+        {% include aside.html %}
 </main>
     {% include footer.html %}
 </body>

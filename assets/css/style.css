@@ -320,39 +320,35 @@ footer a, footer a:visited, footer a:focus, footer a:hover {
 	max-width: 100%;
 	height: auto;
 }
-
-
-@media screen and (min-width: 78rem) {
-	main {
-		flex-flow: 			row;
-		justify-content:	space-around;
-		align-items:		flex-start;
-	}
-
-	main > * {
-	    padding-right:	1rem;
-	    padding-left: 	1rem;
-	}
-
-	/* --- */
+/* 
+@media screen and (max-width: 78rem) {
 	main nav {
-		order:		 	0;
-		border-top: 	none;
-		border-right: 	1px solid #ccc;
+		position: fixed;
+		top: 0; bottom: 0;
+		left: 0;
+		width: 23.5em;
+		max-width: 80%;
+		max-width: calc(100% - 2em - 26px);
+		overflow: auto;
+		padding: 0 1em;
+		padding-left: 42px;
+		padding-left: calc(1em + 26px);
+		background: inherit;
+		background-color: #f7f8f9;
+		color: black;
+		z-index: 0;
+		box-shadow: -.1em 0 .25em rgba(0,0,0,.1) inset;
 	}
 
 	main nav h3 {
-		text-align:		right;
+		text-align: left;
 	}
+} */
 
+
+@media screen {
 	main #content {
-	    max-width:		60rem;
-	}
-
-	aside {
-	    max-width:		20rem;
-	    border-top:		none;
-	    border-left:	1px solid #ccc;
+		max-width:		60rem;
 	}
 
 	article {
@@ -366,4 +362,78 @@ footer a, footer a:visited, footer a:focus, footer a:hover {
 		margin-top: 	5rem;
 		padding-bottom: 2rem;
 	}
+
+	#topcontent {
+		display: flex;
+	}
+
+	@media (max-width: 78rem) {
+		main {
+			flex-flow: 			column-reverse;
+			justify-content:	space-around;
+			align-items:		flex-start;
+		}
+
+		#topcontent {
+			flex-flow: 			column;
+			justify-content:	space-around;
+			align-items:		flex-start;
+		}
+
+		aside {
+			border-top:		3px inset #ccc;
+			border-bottom:	3px inset #ccc;
+		}
+
+		main nav {
+			display: 		flex;
+			flex-wrap: 		wrap;
+			justify-content: space-between;
+			border-top: 	none;
+			border-right: 	none;
+		}
+
+		main nav section {
+			margin-left: 1rem
+		}
+	}
+
+
+	@media (min-width: 78rem) {
+		main {
+			flex-flow: 			row;
+			justify-content:	space-around;
+			align-items:		flex-start;
+		}
+
+		#topcontent {
+			flex-flow: 			row;
+			/* justify-content:	space-around; */
+			align-items:		flex-start;
+			flex-wrap: 			nowrap;
+		}
+
+		main > * {
+			padding-right:	1rem;
+			padding-left: 	1rem;
+		}
+
+		/* --- */
+		main nav {
+			order:		 	0;
+			border-top: 	none;
+			border-right: 	1px solid #ccc;
+		}
+
+		main nav h3 {
+			text-align:		right;
+		}
+
+		aside {
+			max-width:		20rem;
+			border-top:		none;
+			border-left:	1px solid #ccc;
+			padding-left:   1rem;
+		}
+	}	
 }

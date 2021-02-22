@@ -55,9 +55,8 @@
 }
 
 body {
-	margin:			0;
-	padding: 		0;
-	background: 	white;
+	margin:			0px;
+	padding: 		0px;
 	max-width: 		100%;
 	font-family:	'Noto Sans', Helvetica, sans-serif;
 }
@@ -75,7 +74,7 @@ strong {
 }
 
 h1 {
-	color: black;
+	color:  		black;
 	text-align:		center;
 	font-size: 		2rem;
 	font-weight:	500;
@@ -123,7 +122,7 @@ a:hover, a:focus {
 }
 
 a[rel="external"]:after {
-  content: " ❐"
+  	content: " ❐"
 }
 
 /*** header ***/
@@ -158,17 +157,9 @@ header a:hover, header a:focus {
 
 /*** main ***/
 /*
-The flex consists of three columns:
- - a nav element
- - a section with the main content
- - an aside
-
- Note that the default setups are for a mobile site; the larger screens have slightly different flex values set below!
+* see below for display control
 */
 main {
-	display: 		flex;
-	flex-direction: column;
-	flex-wrap: 		wrap;
 	background: 	white;
 	color: 			black;
 	line-height: 	1.2;
@@ -183,19 +174,19 @@ main > * {
 
 /* --- */
 main nav {
-	font-size: 		0.9em;
+	font-size: 		0.9rem;
 	margin-top:		1rem;
 	margin-bottom:	1rem;
 	padding-top:	0.5ex;
 	padding-bottom:	0.5ex;
-	border-top: 	2px solid #ccc;
-	min-width: 13em;
+	min-width: 		13rem;
 }
 
 main nav h3 {
 	padding-bottom:	0.2ex;
 	border-bottom:	3px solid #eee;
 }
+
 main nav li {
 	font-weight:	500;
 	padding:		0.5ex;
@@ -207,7 +198,7 @@ main #content li {
 }
 
 aside {
-	font-size: 		0.9em;
+	font-size: 		0.9rem;
 	margin-top:		1rem;
 	margin-bottom:	1rem;
 	border-top: 	2px solid #ddd;
@@ -260,15 +251,10 @@ figcaption {
 	content: "and "
 }
 
-/*section#articles {
-	border-top: 2px solid #ddd;
-}*/
-
 article {
-  margin-top: 	 0.5rem;
-  padding:       1rem;
-  border: 		 1px solid #ddd;
-  border-radius: 0.5rem;
+	margin-top: 	2rem;
+  	padding:       	1rem;
+  	border-radius: 	0.5rem;
 }
 
 article h3 {
@@ -295,15 +281,18 @@ article time {
 footer {
 	background: 		#005A9C;
 	color: 				white;
+	width: 				100%;
 	margin: 			0;
+	margin-top: 		5rem;
 	padding-right: 		0.5rem;
 	padding-left: 		0.5rem;
 	padding-top: 		0.5rem;
-	padding-bottom:		1rem;
+	padding-bottom: 	0.5rem;
 	text-align: 		left;
 	display: 			flex;
 	flex-direction: 	row;
 	justify-content:	space-around;
+	box-sizing: 		border-box;
 }
 
 footer p {
@@ -320,55 +309,30 @@ footer a, footer a:visited, footer a:focus, footer a:hover {
 	max-width: 100%;
 	height: auto;
 }
-/* 
-@media screen and (max-width: 78rem) {
-	main nav {
-		position: fixed;
-		top: 0; bottom: 0;
-		left: 0;
-		width: 23.5em;
-		max-width: 80%;
-		max-width: calc(100% - 2em - 26px);
-		overflow: auto;
-		padding: 0 1em;
-		padding-left: 42px;
-		padding-left: calc(1em + 26px);
-		background: inherit;
-		background-color: #f7f8f9;
-		color: black;
-		z-index: 0;
-		box-shadow: -.1em 0 .25em rgba(0,0,0,.1) inset;
-	}
 
-	main nav h3 {
-		text-align: left;
-	}
-} */
+/* The display control via flexboxes in main */
 
+/*
+The flex consists of items:
+ - a nav element
+ - a section with the main content
+ - an aside
 
+ There are two set ups, one for narrow screens (with items stacked vertically) and larger ones (with items in columns). The order of the
+ items is also dependent on the screen size
+*/
 @media screen {
-	main #content {
-		max-width:		60rem;
-	}
-
-	article {
-		margin-top: 	2rem;
-		border-top: 	0.5ex solid #ddd;
-	}
-
-	footer {
-		box-sizing: 	border-box;
-		width: 			100%;
-		margin-top: 	5rem;
-		padding-bottom: 2rem;
+	main {
+		display: 		 flex;
+		flex-wrap: 		 wrap;
+		justify-content: space-around;
+		align-items:	 flex-start;
 	}
 
 
 	@media (max-width: 78rem) {
 		main {
-			flex-flow: 			column;
-			justify-content:	space-around;
-			align-items:		flex-start;
+			flex-flow: 	column;
 		}
 
 		main nav {
@@ -401,12 +365,9 @@ footer a, footer a:visited, footer a:focus, footer a:hover {
 		}
 	}
 
-
 	@media (min-width: 78rem) {
 		main {
-			flex-flow: 			row;
-			justify-content:	space-around;
-			align-items:		flex-start;
+			flex-flow: 	row;
 		}
 
 		main nav {
@@ -414,13 +375,13 @@ footer a, footer a:visited, footer a:focus, footer a:hover {
 		}
 
 		main #content {
-			order: 2
+			order: 2;
+			max-width:		 60rem;
 		}
 
 		aside {
 			order: 3
 		}
-
 
 		main > * {
 			padding-right:	1rem;

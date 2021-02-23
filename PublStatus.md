@@ -10,12 +10,12 @@ layout: default
 
 | Document | Official Publication | Editors’ Draft |
 |----------|:--------------:|:-----------------:|
-| EPUB 3.3 Overview<sup>†<sup>   | [WD](https://www.w3.org/TR/epub-overview-33/) | [ED](https://w3c.github.io/epub-specs/epub33/overview/)                
-| EPUB 3.3                       | [WD](https://www.w3.org/TR/epub-33/) | [ED](https://w3c.github.io/epub-specs/epub33/core/)                    
-| EPUB 3.3 Reading Systems       | [WD](https://www.w3.org/TR/epub-rs-33/) | [ED](https://w3c.github.io/epub-specs/epub33/rs/)                      
-| EPUB Multiple-Rendition Publications 1.1<sup>†<sup> | [WD](https://www.w3.org/TR/epub-multi-rend-11/) | [ED](https://w3c.github.io/epub-specs/epub33/rs/) 
-| EPUB Accessibility 1.1         |  n.a. | [ED](https://w3c.github.io/epub-specs/epub33/a11y/)     
-| EPUB Accessibility Techniques 1.1<sup>†<sup>  |  n.a. | [ED](https://w3c.github.io/epub-specs/epub33/a11y-tech/)     
+| EPUB 3.3 Overview<sup>†<sup>   | [WG Note](https://www.w3.org/TR/epub-overview-33/) | [ED](https://w3c.github.io/epub-specs/epub33/overview/)                
+| EPUB 3.3                       | [Working Draft](https://www.w3.org/TR/epub-33/) | [ED](https://w3c.github.io/epub-specs/epub33/core/)                    
+| EPUB 3.3 Reading Systems       | [Working Draft](https://www.w3.org/TR/epub-rs-33/) | [ED](https://w3c.github.io/epub-specs/epub33/rs/)                      
+| EPUB Multiple-Rendition Publications 1.1<sup>†<sup> | [WG Note](https://www.w3.org/TR/epub-multi-rend-11/) | [ED](https://w3c.github.io/epub-specs/epub33/multi-rend/) 
+| EPUB Accessibility 1.1         |  [Working Draft](https://www.w3.org/TR/epub-a11y-11/) | [ED](https://w3c.github.io/epub-specs/epub33/a11y/)     
+| EPUB Accessibility Techniques 1.1<sup>†<sup>  |  [WG Note](https://www.w3.org/TR/epub-a11y-tech-11/). | [ED](https://w3c.github.io/epub-specs/epub33/a11y-tech/)     
 {: .zebra}
 
 <sup>†</sup> Non rec-track document

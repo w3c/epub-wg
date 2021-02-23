@@ -57,7 +57,7 @@
                     The group is chartered until 28th of February, 2023.
                 </p>
             </section>
- 
+
             <section >
                 {{ content }}
             </section>
@@ -66,14 +66,14 @@
                 <h2>Specifications</h2>
                 <div data-apiary="specifications">[Loading...]</div>
             </section> -->
-  
+
             <section id="minutes">
                 <h2>Recent Meeting Minutes</h2>
                 <ul class="inline">
                 {% assign minutes_length = site.minutes | size %}
                 {% assign reversed_minutes = site.minutes | reverse %}
                 {% for item in reversed_minutes limit:5 %}
-                  <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.date | date: '%d %B' }}</a></li>
+                <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.date | date: '%d %B' }}</a></li>
                 {% endfor %}
                 {% if minutes_length > 5 %}
                     <li><a href="Meetings/Minutes/">more...</a></li>
@@ -84,7 +84,7 @@
             <!-- <iframe src="https://www.w3.org/groups/wg/{{ site.wgname_lc }}" frameborder="0" width="100%" height="500">
 
             </iframe>
- -->
+-->
 
             <section id="group_details">
                 <h2>Group details</h2>
@@ -105,7 +105,7 @@
 
 
             <!-- <section id='articles'>
-    			<h2>Latest activity news</h2>
+                <h2>Latest activity news</h2>
                 <p>(See the <a href="https://www.w3.org/blog/category/technology/{{ site.wgname_lc }}/">activity blog</a> for all the news.)</p>
             </section> -->
         </section>

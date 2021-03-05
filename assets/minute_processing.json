@@ -1,5 +1,5 @@
 {
-    "date": "2021-02-26T16:19:29.748Z",
+    "date": "2021-03-05T10:17:23.848Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -29,9 +29,50 @@
         "2021-02-12-epub.md",
         "2021-02-18-epub.md",
         "2021-02-25-epub-a11y.md",
-        "2021-02-26-epub.md"
+        "2021-02-26-epub.md",
+        "2021-03-04-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-03-04",
+            "number": 1,
+            "text": "Close issue #1026, will not implement",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-03-04-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-03-04",
+            "number": 2,
+            "text": "Close issue 841, will not change usage of dcterms:modified",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-03-04-epub#resolution2",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-03-04",
+            "number": 3,
+            "text": "Close issue 588",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-03-04-epub#resolution3",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-03-04",
+            "number": 4,
+            "text": "Explore implementation of a <code>media:paused</code> class in EPUB 3.3",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-03-04-epub#resolution4",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-03-04",
+            "number": 5,
+            "text": "Close issues 1527 and 1553, add editorial note regarding the current use of <code>dc:title</code> on the market and edit the example",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-03-04-epub#resolution5",
+            "call": "epub"
+        },
         {
             "year": 2021,
             "date": "2021-02-25",

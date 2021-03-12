@@ -1,5 +1,5 @@
 {
-    "date": "2021-03-05T10:17:23.848Z",
+    "date": "2021-03-12T08:17:35.491Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -30,9 +30,18 @@
         "2021-02-18-epub.md",
         "2021-02-25-epub-a11y.md",
         "2021-02-26-epub.md",
-        "2021-03-04-epub.md"
+        "2021-03-04-epub.md",
+        "2021-03-11-epub-a11y.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-03-11",
+            "number": 1,
+            "text": "make distribution section non-normative and place a note that it is required by EU accessibility act",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-03-11-epub-a11y#resolution1",
+            "call": "epub-a11y"
+        },
         {
             "year": 2021,
             "date": "2021-03-04",

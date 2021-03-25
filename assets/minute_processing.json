@@ -1,5 +1,5 @@
 {
-    "date": "2021-03-19T07:42:12.500Z",
+    "date": "2021-03-25T17:42:56.781Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -33,9 +33,26 @@
         "2021-03-04-epub.md",
         "2021-03-11-epub-a11y.md",
         "2021-03-12-epub.md",
-        "2021-03-18-epub.md"
+        "2021-03-18-epub.md",
+        "2021-03-25-epub-a11y.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-03-25",
+            "number": 1,
+            "text": "relax strict requirement of sequential page numbers in EPUB 3 specification",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-03-25-epub-a11y#resolution1",
+            "call": "epub-a11y"
+        },
+        {
+            "year": 2021,
+            "date": "2021-03-25",
+            "number": 2,
+            "text": "add non-normative text in ePUB Accessibility suggesting rechecking the publications for major changes that could effect",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-03-25-epub-a11y#resolution2",
+            "call": "epub-a11y"
+        },
         {
             "year": 2021,
             "date": "2021-03-18",

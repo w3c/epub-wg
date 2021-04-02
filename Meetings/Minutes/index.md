@@ -19,7 +19,7 @@ layout: default
 
 <ul>
 {% for item in year.items reversed %}
-  {% unless item.url contains "epub-a11y"  %}
+  {% unless item.url contains "epub-a11y" or item.url contains "epub-fxl" or item.url contains "epub-locators" %}
       <li><a href="{{ site.baseurl }}{{ item.url }}"><em>{{ item.title }}</em></a></li>
   {% endunless %}
 {% endfor %}
@@ -43,3 +43,34 @@ layout: default
 
 {% endfor %}
 
+## FXL Accessibility Task Force minutes
+
+{% for year in yearly_minutes reversed %}
+
+### {{ year.name }}
+
+<ul>
+{% for item in year.items reversed %}
+  {% if item.url contains "epub-fxl"  %}
+      <li><a href="{{ site.baseurl }}{{ item.url }}"><em>{{ item.title }}</em></a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+{% endfor %}
+
+## Virtual Locators Task Force minutes
+
+{% for year in yearly_minutes reversed %}
+
+### {{ year.name }}
+
+<ul>
+{% for item in year.items reversed %}
+  {% if item.url contains "epub-locators"  %}
+      <li><a href="{{ site.baseurl }}{{ item.url }}"><em>{{ item.title }}</em></a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+{% endfor %}

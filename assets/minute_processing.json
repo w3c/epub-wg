@@ -1,5 +1,5 @@
 {
-    "date": "2021-04-09T04:27:16.836Z",
+    "date": "2021-04-09T15:30:24.684Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -39,9 +39,26 @@
         "2021-04-01-epub.md",
         "2021-04-06-epub-fxl.md",
         "2021-04-07-epub-locators.md",
-        "2021-04-08-epub-a11y.md"
+        "2021-04-08-epub-a11y.md",
+        "2021-04-09-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-04-08",
+            "number": 1,
+            "text": "Flag appendix A as at-risk, keep as a normative requirement and test implementation, remove the WebIDL",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-04-08-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-04-08",
+            "number": 2,
+            "text": "Amend the RS section to allow RSs to do whatever they \"damn well\" please with CSS direction",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-04-08-epub#resolution2",
+            "call": "epub"
+        },
         {
             "year": 2021,
             "date": "2021-04-08",

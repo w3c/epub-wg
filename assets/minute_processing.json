@@ -45,15 +45,15 @@
     "resolutions": [
         {
             "year": 2021,
-            "date": "2021-04-08",
+            "date": "2021-04-09",
             "number": 1,
             "text": "Flag appendix A as at-risk, keep as a normative requirement and test implementation, remove the WebIDL",
-            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-04-08-epub#resolution1",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-04-09-epub#resolution1",
             "call": "epub"
         },
         {
             "year": 2021,
-            "date": "2021-04-08",
+            "date": "2021-04-09",
             "number": 2,
             "text": "Amend the RS section to allow RSs to do whatever they \"damn well\" please with CSS direction",
             "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-04-08-epub#resolution2",

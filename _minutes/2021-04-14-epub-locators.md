@@ -98,7 +98,7 @@ See also the [Agenda]() and the [IRC Log](https://www.w3.org/2021/04/14-epub-loc
 
 ## Attendees
 {: .no_toc}
-**Present:** Wendy Reid, Brady Duga, Dan Lazin, Marisa DeMeglio
+**Present:** Wendy Reid, Brady Duga, Dan Lazin, Marisa DeMeglio, Mary Coe
 
 **Regrets:** Tzviya Siegman, Matt Garrish, Ben Schroeter
 
@@ -162,7 +162,7 @@ See also the [Agenda]() and the [IRC Log](https://www.w3.org/2021/04/14-epub-loc
 
 **Wendy Reid:** Reading index note from the doc being reviewed  
 
-**Mary:** Do we want to talk about embedded indexing in depth now?  
+**Mary Coe:** Do we want to talk about embedded indexing in depth now?  
 
 **Dan Lazin:** Maybe group first then come back to indexes  
 
@@ -172,7 +172,7 @@ See also the [Agenda]() and the [IRC Log](https://www.w3.org/2021/04/14-epub-loc
 … Case 5 - refer to a range of pages  
 … [reading note from the doc]  
 
-**Mary:** People still like page numbers because they are used to them  
+**Mary Coe:** People still like page numbers because they are used to them  
 … but once they look at the page number, they don't care, or use the range  
 
 **Ronnie Seagren:** A range help tell you how much information you will find (ie it tells you size)  
@@ -184,7 +184,7 @@ See also the [Agenda]() and the [IRC Log](https://www.w3.org/2021/04/14-epub-loc
 **Pilar Wyman:** New standard drops page numbers, uses identifiers  
 … people seem to understand sections are large, subsections are small  
 
-**Mary:** Need to understand what readers want  
+**Mary Coe:** Need to understand what readers want  
 
 **Ronnie Seagren:** And there are many different kinds of readers  
 
@@ -231,7 +231,7 @@ See also the [Agenda]() and the [IRC Log](https://www.w3.org/2021/04/14-epub-loc
 
 **Dan Lazin:** It is also ranges  
 
-**Mary:** It is also less specific  
+**Mary Coe:** It is also less specific  
 
 **Ronnie Seagren:** May not be the same location as the sentence in the translated version  
 
@@ -260,7 +260,7 @@ See also the [Agenda]() and the [IRC Log](https://www.w3.org/2021/04/14-epub-loc
 … May want to concentrate on that (specific locations)  
 … might be a bad term  
 
-**Mary:** Nope, I like it. But I guess we could have another name  
+**Mary Coe:** Nope, I like it. But I guess we could have another name  
 
 **Wendy Reid:** Where to do from here?  
 
@@ -273,7 +273,7 @@ See also the [Agenda]() and the [IRC Log](https://www.w3.org/2021/04/14-epub-loc
 **Pilar Wyman:** When indexes are embedded you get an idea about the document and discussion  
 … that gets carried through to the digital side, even if they no longer makes sense (eg page numbers)  
 
-**Mary:** Agreed. People like to see things like page numbers in the index, but once they are in the document they don't care  
+**Mary Coe:** Agreed. People like to see things like page numbers in the index, but once they are in the document they don't care  
 
 **Pilar Wyman:** So I want this use case to stay  
 … this use case reflects how the software has changed how we think about this issue  
@@ -287,7 +287,7 @@ See also the [Agenda]() and the [IRC Log](https://www.w3.org/2021/04/14-epub-loc
 
 **Ronnie Seagren:** Still need to convince publishers to add links  
 
-**Mary:** Is there an RS that has an index button (similar to ToC, etc)  
+**Mary Coe:** Is there an RS that has an index button (similar to ToC, etc)  
 
 **Wendy Reid:** Index has never been elevated to same level as ToC in the epub metadata  
 

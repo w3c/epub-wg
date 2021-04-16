@@ -1,5 +1,5 @@
 {
-    "date": "2021-04-13T14:57:00.717Z",
+    "date": "2021-04-16T07:58:28.403Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -41,9 +41,35 @@
         "2021-04-07-epub-locators.md",
         "2021-04-08-epub-a11y.md",
         "2021-04-09-epub.md",
-        "2021-04-13-epub-fxl.md"
+        "2021-04-13-epub-fxl.md",
+        "2021-04-14-epub-locators.md",
+        "2021-04-15-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-04-15",
+            "number": 1,
+            "text": "Merge PR 1616",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-04-15-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-04-15",
+            "number": 2,
+            "text": "Remove all references to custom attributes",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-04-15-epub#resolution2",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-04-15",
+            "number": 3,
+            "text": "Drop the statement in issue 1516",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-04-15-epub#resolution3",
+            "call": "epub"
+        },
         {
             "year": 2021,
             "date": "2021-04-09",

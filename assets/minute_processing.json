@@ -1,5 +1,5 @@
 {
-    "date": "2021-04-16T07:58:28.403Z",
+    "date": "2021-04-23T15:17:48.945Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -43,9 +43,44 @@
         "2021-04-09-epub.md",
         "2021-04-13-epub-fxl.md",
         "2021-04-14-epub-locators.md",
-        "2021-04-15-epub.md"
+        "2021-04-15-epub.md",
+        "2021-04-20-epub-fxl.md",
+        "2021-04-21-epub-locators.md",
+        "2021-04-23-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-04-22",
+            "number": 1,
+            "text": "Change the PR from 'deprecated' to 'should' and then merge",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-04-22-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-04-22",
+            "number": 2,
+            "text": "Add a note to clarify that a RS should do what it can with filenames that exceed the limit",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-04-22-epub#resolution2",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-04-22",
+            "number": 3,
+            "text": "Change requirement for case normalization to a MUST and specify which algorithm we will use",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-04-22-epub#resolution3",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-04-22",
+            "number": 4,
+            "text": "Close issue 1632",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-04-22-epub#resolution4",
+            "call": "epub"
+        },
         {
             "year": 2021,
             "date": "2021-04-15",

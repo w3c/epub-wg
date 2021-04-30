@@ -1,5 +1,5 @@
 {
-    "date": "2021-04-27T15:25:58.359Z",
+    "date": "2021-04-30T09:06:01.666Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -47,9 +47,35 @@
         "2021-04-20-epub-fxl.md",
         "2021-04-21-epub-locators.md",
         "2021-04-23-epub.md",
-        "2021-04-27-epub-fxl.md"
+        "2021-04-27-epub-fxl.md",
+        "2021-04-28-epub-locators.md",
+        "2021-04-29-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-04-29",
+            "number": 1,
+            "text": "Close issue 1509",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-04-29-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-04-29",
+            "number": 2,
+            "text": "Close issue 1505",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-04-29-epub#resolution2",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-04-29",
+            "number": 3,
+            "text": "Close issue 1504",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-04-29-epub#resolution3",
+            "call": "epub"
+        },
         {
             "year": 2021,
             "date": "2021-04-23",

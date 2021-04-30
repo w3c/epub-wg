@@ -16,6 +16,8 @@ layout: default
 | EPUB Multiple-Rendition Publications 1.1<sup>†<sup> | [WG Note](https://www.w3.org/TR/epub-multi-rend-11/) | [ED](https://w3c.github.io/epub-specs/epub33/multi-rend/) 
 | EPUB Accessibility 1.1         |  [Working Draft](https://www.w3.org/TR/epub-a11y-11/) | [ED](https://w3c.github.io/epub-specs/epub33/a11y/)     
 | EPUB Accessibility Techniques 1.1<sup>†<sup>  |  [WG Note](https://www.w3.org/TR/epub-a11y-tech-11/). | [ED](https://w3c.github.io/epub-specs/epub33/a11y-tech/)     
+| EPUB Fixed Layout Accessibility<sup>†<sup>   | n/a | [ED](https://w3c.github.io/epub-specs/epub33/fxl-a11y/)                
+| EPUB Canonical Fragment Identifiers 1.1<sup>†<sup>   | n/a | [ED](https://w3c.github.io/epub-specs/epub33/epubcfi/)                
 {: .zebra}
 
 <sup>†</sup> Non rec-track document
@@ -24,12 +26,13 @@ layout: default
 
 ## Major planned (and realized) charter milestones
 
-The names of the official WG documents differ from the ones listed is in the charter. Some documents from the charter, have been merged or split. The transformation has been made in two steps:
+The names of the official WG documents differ from the ones listed is in the charter. Some documents from the charter have been merged or split. The transformation has been made in two steps:
 
 1. merge of EPUB 3.X, Packages 3.X, Content Documents 3.X, Open Container Format 3.X, and Media Overlay 3.X into one document, removing the duplications;
 2. separation the issues on Reading Systems Conformance into a separate recommendation-track document.
+3. separation of the multiple rendering specification into its own Working Group Note, thereby simplifying the (new) content document
 
-These two steps resulted in the EPUB 3.3 and the EPUB 3.3 Reading Systems documents. The EPUB Accessibility document remained, in this respect, unchanged. All these changes were purely editorial.
+These steps resulted in the EPUB 3.3 and the EPUB 3.3 Reading Systems documents. The EPUB Accessibility document remained, in this respect, unchanged. All these changes were purely editorial.
 
 * EPUB 3.3:
     * First Public Working Draft (FPWD): February 2021 (January 2021)

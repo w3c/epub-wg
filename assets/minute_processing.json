@@ -1,5 +1,5 @@
 {
-    "date": "2021-04-30T09:06:01.666Z",
+    "date": "2021-05-07T15:09:00.483Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -49,9 +49,36 @@
         "2021-04-23-epub.md",
         "2021-04-27-epub-fxl.md",
         "2021-04-28-epub-locators.md",
-        "2021-04-29-epub.md"
+        "2021-04-29-epub.md",
+        "2021-05-04-epub-fxl.md",
+        "2021-05-05-epub-locators.md",
+        "2021-05-07-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-05-07",
+            "number": 1,
+            "text": "Make statement in issue 1659 normative",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-05-07-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-05-07",
+            "number": 2,
+            "text": "Close issue 1650",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-05-07-epub#resolution2",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-05-07",
+            "number": 3,
+            "text": "Use the WHATWG URL specification instead of the RFCs",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-05-07-epub#resolution3",
+            "call": "epub"
+        },
         {
             "year": 2021,
             "date": "2021-04-29",

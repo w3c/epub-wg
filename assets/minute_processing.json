@@ -1,5 +1,5 @@
 {
-    "date": "2021-05-07T15:09:00.483Z",
+    "date": "2021-05-13T14:58:42.218Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -52,7 +52,10 @@
         "2021-04-29-epub.md",
         "2021-05-04-epub-fxl.md",
         "2021-05-05-epub-locators.md",
-        "2021-05-07-epub.md"
+        "2021-05-07-epub.md",
+        "2021-05-11-epub-fxl.md",
+        "2021-05-12-epub-locators.md",
+        "2021-05-13-epub-a11y.md"
     ],
     "resolutions": [
         {

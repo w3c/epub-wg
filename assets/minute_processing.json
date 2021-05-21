@@ -1,5 +1,5 @@
 {
-    "date": "2021-05-14T09:04:56.912Z",
+    "date": "2021-05-21T15:29:53.373Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -56,9 +56,51 @@
         "2021-05-11-epub-fxl.md",
         "2021-05-12-epub-locators.md",
         "2021-05-13-epub-a11y.md",
-        "2021-05-13-epub.md"
+        "2021-05-13-epub.md",
+        "2021-05-19-epub-locators.md",
+        "2021-05-21-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-05-21",
+            "number": 1,
+            "text": "our spec does not require SVG to be valid only well formed",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-05-21-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-05-21",
+            "number": 2,
+            "text": "dump <code>xml:base</code> from the spec",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-05-21-epub#resolution2",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-05-21",
+            "number": 3,
+            "text": "get rid of the hand-waving in PR 1671 on the origin issue",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-05-21-epub#resolution3",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-05-21",
+            "number": 4,
+            "text": "Close issue 1675 without further steps",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-05-21-epub#resolution4",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-05-21",
+            "number": 5,
+            "text": "republish all specs",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-05-21-epub#resolution5",
+            "call": "epub"
+        },
         {
             "year": 2021,
             "date": "2021-05-13",

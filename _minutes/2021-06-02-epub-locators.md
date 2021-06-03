@@ -1,7 +1,7 @@
 ---
 layout: minutes
 date: 2021-06-02
-title: Virtual Locators TF Telco June 2, 2021 — 2021-06-02
+title: EBUB Working Group Virtual Locators Task Force Telco — 2021-06-02
 json-ld: |
     {
         "@context": [
@@ -83,7 +83,7 @@ json-ld: |
 
 ---
 
-# Virtual Locators TF Telco June 2, 2021 — Minutes
+# EBUB Working Group Virtual Locators Task Force Telco — Minutes
 {: .no_toc}
 
 

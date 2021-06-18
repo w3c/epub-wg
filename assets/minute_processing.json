@@ -1,5 +1,5 @@
 {
-    "date": "2021-06-11T07:05:43.141Z",
+    "date": "2021-06-18T15:35:39.541Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -68,9 +68,35 @@
         "2021-06-08-epub-fxl.md",
         "2021-06-09-epub-locators.md",
         "2021-06-10-epub-a11y.md",
-        "2021-06-10-epub.md"
+        "2021-06-10-epub.md",
+        "2021-06-16-epub-locators.md",
+        "2021-06-18-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-06-18",
+            "number": 1,
+            "text": "Discourage the use of <code>&lt;base&gt;</code> in EPUB, close issue 1699",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-06-18-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-06-18",
+            "number": 2,
+            "text": "Publish the EU Accessibility Mapping as a working group note, with the short name of \"epub-a11y-eaa-mapping\", and use the ECHIDNA publishing system to update when working group needs to",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-06-18-epub#resolution2",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-06-18",
+            "number": 3,
+            "text": "Remove SSML from the core specification, include along with PLS in a separate WG note",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-06-18-epub#resolution3",
+            "call": "epub"
+        },
         {
             "year": 2021,
             "date": "2021-06-10",

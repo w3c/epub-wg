@@ -1,0 +1,25 @@
+To: xueyuan, Cc: coralie, comm team, denis, jennyliang@w3.org, DID WG Chairs, Manu
+
+
+Subject: [DRAFT HPN] Working Group Note: EPUB Accessibility - EU Accessibility Act Mapping
+
+----------------------------
+
+<p>The <a href="https://www.w3.org//publishing/groups/epub-wg/">EPUB 3 Working Group</a> 
+has just published a Working Group Note
+<a href="https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20210629/">EPUB Accessibility - EU Accessibility Act Mapping</a> document.
+</p>
+
+<p>The <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882">European Accessibility Act (EAA)</a> is an 
+EU directive that establishes binding accessibility targets that must be met by many different types of products and
+services to strengthen the rights of people with disabilities to access goods and services, including ebooks, dedicated
+reading software, ereading devices, and ecommerce.</p>
+
+<p>The EAA has been approved on 27 June  2019, should be implemented by EU Member States within 
+28 June 2022 and will enter in force from 28 June 2025.</p>
+
+<p>This note aims to demonstrate that the technical requirements of the European Accessibility
+Act related to ebooks are met by the EPUB standard.</p>
+
+<p>The methodology used is mapping the requirements of the EU Accessibility Act related to ebooks
+to the <a href="https://www.w3.org/TR/epub-a11y-11/">EPUB Accessibility</a> specification.</p>

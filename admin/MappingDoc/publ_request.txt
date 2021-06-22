@@ -1,0 +1,29 @@
+To: webmaster, Cc: jennyliang@w3.org, EPUB WG Chairs, Gregorio
+
+Denis,
+
+This is an official publication request for the publication of the EPUB 3 WG's "EPUB Accessibility - EU Accessibility Act Mapping" as First Public Working Group Note. The publication date is the 29th of June, 2021. The transition request for the Note has been issued in:
+
+	https://github.com/w3c/transitions/issues/347
+
+the Director's approval is in:
+
+	https://github.com/w3c/transitions/issues/347#issuecomment-XXXXXX
+
+Document Title and URL
+======================
+
+EPUB Accessibility - EU Accessibility Act Mapping
+	https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20210629/
+
+
+Abstract and Status Sections
+----------------------------
+
+See the previous URL.
+
+The documents is already in place and went through pubrules' checker. 
+
+Thanks!
+
+Ivan

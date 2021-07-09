@@ -1,5 +1,5 @@
 {
-    "date": "2021-07-02T15:14:09.810Z",
+    "date": "2021-07-09T04:51:29.383Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -74,9 +74,51 @@
         "2021-06-22-epub-fxl.md",
         "2021-06-24-epub-a11y.md",
         "2021-06-24-epub.md",
-        "2021-07-02-epub.md"
+        "2021-07-02-epub.md",
+        "2021-07-06-epub-fxl.md",
+        "2021-07-08-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-07-08",
+            "number": 1,
+            "text": "Republish the latest revisions of EPUB 3.3 Core and Reading Systems",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-07-08-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-07-08",
+            "number": 2,
+            "text": "Merge PR 1751",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-07-08-epub#resolution2",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-07-08",
+            "number": 3,
+            "text": "Publish Text-to-speech Enhancements 1.0, with the short name \"epub-tts\" as a working group note",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-07-08-epub#resolution3",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-07-08",
+            "number": 4,
+            "text": "Change text for page-progression-direction to \"When the default value of the page-progression-direction attribute is specified, or the attribute is absent, the Reading System can choose the rendering direction.\", drop assertion, close issue 1482",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-07-08-epub#resolution4",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-07-08",
+            "number": 5,
+            "text": "Publish latest version of EPUB Accessibility 1.1 and EPUB Accessibility Techniques 1.1",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-07-08-epub#resolution5",
+            "call": "epub"
+        },
         {
             "year": 2021,
             "date": "2021-06-24",

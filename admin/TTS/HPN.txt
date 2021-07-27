@@ -1,0 +1,27 @@
+To: xueyuan, Cc: coralie, comm team, denis, jennyliang@w3.org, EPUB WG Chairs, Matt
+
+
+Subject: [DRAFT HPN] Working Group Note: EPUB 3 Text-to-Speech Enhancements 1.0
+
+----------------------------
+
+<p>The <a href="https://www.w3.org//publishing/groups/epub-wg/">EPUB 3 Working Group</a> 
+has just published a Working Group Note
+<a href="https://www.w3.org/TR/2021/NOTE-epub-tts-10-20210803/">EPUB 3 Text-to-Speech Enhancements 1.0</a> document.
+This document describes authoring features and reading system support for improving the voicing of EPUB 3 publications.
+</p>
+
+<p>
+The EPUB Working Group of the International Digital Publishing Forum (IDPF) first defined a means 
+of integrating the <a href="https://www.w3.org/TR/speech-synthesis11/">Synthetic Speech Markup Language</a> 
+and <a href="https://www.w3.org/TR/pronunciation-lexicon/">pronunciation lexicons</a> in 
+<a href="http://idpf.org/epub/30/spec/epub30-contentdocs-20111011.html">EPUB&nbsp;3.0</a> so that 
+EPUB Creators could improve the rendering quality of 
+text-to-speech (TTS) playback in Reading Systems. The ability to include 
+cascading style sheets also allowed EPUB Creators to access the in-development 
+speech properties of the <a href="https://www.w3.org/TR/css-speech-1/">CSS Speech module</a>.
+However, although there has been some authoring uptake of these technologies, support in Reading Systems
+has yet to materialize to a level where these technologies are considered stable.
+Consequently, these technologies are now published as a W3C Working Group Note.
+</p>
+

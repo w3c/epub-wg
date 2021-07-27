@@ -1,0 +1,29 @@
+To: webmaster, Cc: jennyliang@w3.org, EPUB WG Chairs, Gregorio
+
+Denis,
+
+This is an official publication request for the publication of the EPUB 3 WG's "EPUB 3 Text-to-Speech Enhancements 1.0" as First Public Working Group Note. The publication date is the 3rd of August, 2021. The transition request for the Note has been issued in:
+
+	https://github.com/w3c/transitions/issues/356
+
+the Director's approval is in:
+
+	https://github.com/w3c/transitions/issues/356#issuecomment-@@@@
+
+Document Title and URL
+======================
+
+EPUB 3 Text-to-Speech Enhancements 1.0
+	https://www.w3.org/TR/2021/NOTE-epub-tts-10-20210803/
+
+
+Abstract and Status Sections
+----------------------------
+
+See the previous URL.
+
+The documents is already in place and went through pubrules' checker. 
+
+Thanks!
+
+Ivan

@@ -1,4 +1,4 @@
-To: webmaster, Cc: jennyliang@w3.org, EPUB WG Chairs, Gregorio
+To: webmaster, Cc: jennyliang@w3.org, EPUB WG Chairs
 
 Denis,
 
@@ -8,7 +8,7 @@ This is an official publication request for the publication of the EPUB 3 WG's "
 
 the Director's approval is in:
 
-	https://github.com/w3c/transitions/issues/356#issuecomment-@@@@
+	https://github.com/w3c/transitions/issues/356#issuecomment-890091866
 
 Document Title and URL
 ======================
@@ -21,6 +21,8 @@ Abstract and Status Sections
 ----------------------------
 
 See the previous URL.
+
+The document should be placed in the "Digital Publishing" bucket on the /TR page.
 
 The documents is already in place and went through pubrules' checker. 
 

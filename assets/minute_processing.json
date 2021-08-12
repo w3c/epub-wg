@@ -1,5 +1,5 @@
 {
-    "date": "2021-07-09T04:51:29.383Z",
+    "date": "2021-08-12T15:49:20.628Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -76,9 +76,18 @@
         "2021-06-24-epub.md",
         "2021-07-02-epub.md",
         "2021-07-06-epub-fxl.md",
-        "2021-07-08-epub.md"
+        "2021-07-08-epub.md",
+        "2021-08-12-epub-a11y.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-08-12",
+            "number": 1,
+            "text": "approve issue #1738",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-08-12-epub-a11y#resolution1",
+            "call": "epub-a11y"
+        },
         {
             "year": 2021,
             "date": "2021-07-08",

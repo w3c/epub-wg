@@ -1,7 +1,7 @@
 ---
 layout: minutes
-date: 08-20-2021
-title: EPUB 3 Working Group Virtual Locators Task Force Telco — 08-20-2021
+date: 2021-08-20
+title: EPUB 3 Working Group Virtual Locators Task Force Telco — 2021-08-20
 json-ld: |
     {
         "@context": [
@@ -19,7 +19,7 @@ json-ld: |
             }
         ],
         "@type": "CreativeWork",
-        "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/08-20-2021-epub-locators",
+        "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-08-20-epub-locators",
         "name": "EPUB 3 Working Group Virtual Locators Task Force Telco — Minutes",
         "about": "EPUB 3 Working Group Virtual Locators Task Force Telco",
         "dateCreated": "08-20-2021",
@@ -38,8 +38,8 @@ json-ld: |
         "recordedAt": {
             "@type": "Event",
             "name": "EPUB 3 Working Group Virtual Locators Task Force Telco",
-            "startDate": "08-20-2021",
-            "endDate": "08-20-2021",
+            "startDate": "2021-08-20",
+            "endDate": "2021-08-20",
             "location": {
                 "@type": "VirtualLocation",
                 "description": "Teleconference"
@@ -104,7 +104,7 @@ json-ld: |
 
 
 
-**Date:** 08-20-2021
+**Date:** 2021-08-20
 
 See also the [Agenda]() and the [IRC Log](https://www.w3.org/2021/08/20-epub-locators-irc.txt)
 

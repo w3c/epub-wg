@@ -104,7 +104,7 @@ See also the [Agenda]() and the [IRC Log](https://www.w3.org/2021/09/17-epub-loc
 {: .no_toc}
 **Present:** Pilar Wyman, Tzviya Siegman, Wendy Reid, Ivan Herman, George Kerscher, Laurent Le Meur, Dan Lazin
 
-**Regrets:** Brady Duga
+**Regrets:** Brady Duga, Ben Schroeter
 
 **Guests:** 
 

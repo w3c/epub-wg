@@ -1,7 +1,7 @@
 ---
 layout: minutes
 date: 2021-09-17
-title: Virtual Locators TF Telco — 2021-09-17
+title: EPUB 3 Working Group Virtual Locators Task Force Telco — 2021-09-17
 json-ld: |
     {
         "@context": [
@@ -91,7 +91,7 @@ json-ld: |
 
 ---
 
-# Virtual Locators TF Telco — Minutes
+# EPUB 3 Working Group Virtual Locators Task Force Telco — Minutes
 {: .no_toc}
 
 

@@ -1,5 +1,5 @@
 {
-    "date": "2021-09-24T15:26:59.337Z",
+    "date": "2021-10-01T04:11:17.907Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -89,9 +89,26 @@
         "2021-09-16-epub.md",
         "2021-09-17-epub-locators.md",
         "2021-09-23-epub-a11y.md",
-        "2021-09-24-epub.md"
+        "2021-09-24-epub.md",
+        "2021-09-30-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-09-30",
+            "number": 1,
+            "text": "Merge PR 1816, close issue 1809",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-09-30-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-09-30",
+            "number": 2,
+            "text": "Merge PR 1808, leave issue 1799 open until schema issue is resolved",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-09-30-epub#resolution2",
+            "call": "epub"
+        },
         {
             "year": 2021,
             "date": "2021-09-23",

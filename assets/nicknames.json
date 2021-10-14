@@ -1355,5 +1355,29 @@
             "Mary",
             "Mary_Coe"
         ]
+    },
+    {
+        "name": "Theresa O'Connor",
+        "nick": [
+            "hober"
+        ]
+    },
+    {
+        "name": "John Roque",
+        "nick": [
+            "johnroque"
+        ]
+    },
+    {
+        "name": "Victoria Lee",
+        "nick": [
+            "victoria_lee"
+        ]
+    },
+    {
+        "name": "Victor Lopes",
+        "nick": [
+            "vlopes"
+        ]
     }
 ]

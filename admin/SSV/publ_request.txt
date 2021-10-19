@@ -1,0 +1,31 @@
+To: webmaster, Cc: jennyliang@w3.org, EPUB WG Chairs
+
+Denis,
+
+This is an official publication request for the publication of the EPUB 3 WG's "EPUB 3 Structural Semantics Vocabulary 1.1" as First Public Working Group Note. The publication date is the 2nd of November, 2021. The transition request for the Note has been issued in:
+
+	https://github.com/w3c/transitions/issues/387
+
+the Director's approval is in:
+
+	https://github.com/w3c/transitions/issues/387#@@@@
+
+Document Title and URL
+======================
+
+EPUB 3 Structural Semantics Vocabulary
+	https://www.w3.org/TR/2021/NOTE-epub-ssv-11-20211102/
+
+
+Abstract and Status Sections
+----------------------------
+
+See the previous URL.
+
+The document should be placed in the "Digital Publishing" bucket on the /TR page.
+
+The documents is already in place and went through pubrules' checker. 
+
+Thanks!
+
+Ivan

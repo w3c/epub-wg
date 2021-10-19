@@ -1,0 +1,23 @@
+To: xueyuan, Cc: coralie, comm team, denis, jennyliang@w3.org, EPUB WG Chairs, Matt
+
+
+Subject: [DRAFT HPN] Working Group Note: EPUB 3 Structural Semantics Vocabulary
+
+----------------------------
+
+<p>The <a href="https://www.w3.org//publishing/groups/epub-wg/">EPUB 3 Working Group</a> 
+has just published a Working Group Note
+<a href="https://www.w3.org/TR/2021/NOTE-epub-ssv-11-20211102/">EPUB 3 Structural Semantics Vocabulary 1.1</a> document.
+This vocabulary, a part of EPUB 3, defines a set of properties relating to the description of structural semantics of written works.
+</p>
+
+<p>
+Structural semantics add additional meaning about the specific structural purpose an
+HTML (or SVG) element plays. The <code>epub:type<code> attribute, defined in EPUB 3.3, is used to express domain-specific 
+semantics in EPUB Content Documents and Media Overlay Documents, with the structural information it carries 
+complementing the underlying vocabulary. The applied semantics refine the meaning of their containing elements without
+changing their nature for assistive technologies, as happens when using the similar <code>role</code> attribute in HTML.
+The attribute does not enhance the accessibility of the content, in other words, only provides hints about the purpose. 
+This documents defines the default vocabulary that can be used with the <code>epub:type<code> attribute.
+</p>
+

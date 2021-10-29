@@ -28,6 +28,7 @@ If you are new to IRC, or haven't used it in a while, you can use the [W3C Clien
 * [IRC Cloud](https://www.irccloud.com) - web-based client that also has a mobile app, friendly UI
 * [Limechat](https://limechat.net) - IRC client for MacOS
 * [mIRC](https://www.mirc.com/) - IRC client for Windows
+* [ChatZilla](http://chatzilla.rdmsoft.com/xulrunner/) - IRC client (noted for accessibility)
 
 When using IRC, make sure you are in the correct channel! While attending a meeting, please use `present+` to update your attendance (others will sometimes do this for you, but it's good to get into the practice of joining this way). During the meeting, the IRC channel will be updated mainly by the chairs or the scribe, who will record the meeting minutes live during the meeting. If you would like to comment or ask a question, enter `q+` in IRC to be added to the speaker's  queue, this is used by the chairs to know when someone would like to speak, and in what order. `q-` can be used to remove yourself from the queue if you wish as well. If in IRC you want to make a small personal comment, or even just some "general chit-chat", you can use `/me` in front of your comment to make sure it's not in the minutes. Remember that everyone will still be able to see your comment in the chat, so keep it respectful!
 
@@ -40,7 +41,7 @@ Quick reference for IRC Commands:
 
 ### Scribing
 
-All of our meetings will be minuted by someone we call the scribe. Scribing is a really important role in a meeting, as they are responsible for recording the points of the meeting for our records. If you are new to the group or to IRC, it can seem a bit intimidating at first, but scribing can be a great way to participate in the group. We are always looking for scribes to record meetings. If you are interested in scribing, please contact the chairs, we'll be happy to add you to the scribe rotation list.
+All of our meetings will be minuted by someone we call the scribe. Scribing is a really important role in a meeting, as they are responsible for recording the points of the meeting for our records. If you are new to the group or to IRC, it can seem a bit intimidating at first, but scribing can be a great way to participate in the group. We are always looking for scribes to record meetings. If you are interested in scribing, please contact the chairs, we'll be happy to explain the process and provide support.
 
 If you have never scribed before because you're unsure, here are the basics:
 
@@ -49,6 +50,21 @@ If you have never scribed before because you're unsure, here are the basics:
 * If you cannot understand someone or missed what was said, you can ask for clarification at any time (this can be by asking someone to repeat what they said, or asking for them to clarify in IRC)
 * If someone is reading from something (like a GitHub issue or blog post), ask them to paste the link in, instead of scribing something that is already written
 * Do not worry about spelling or grammar, the content is much more important!
+
+Quick reference for IRC commands: 
+
+* To identify who is speaking: `[nickname]:` (most IRC clients have a feature where you can type the first letter(s) of a nickname to auto-complete it)
+* `...` to note that the same speaker is still talking
+* `s/[word]/[new word]` to correct something
+
+Example: 
+
+```
+jdoe: I am interested in learning how to scribe
+... but I am unsure of the syntax
+... could someone help me? 
+chair: Of course, let's talk later.
+```
 
 
 ## GitHub

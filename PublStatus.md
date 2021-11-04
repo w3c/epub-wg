@@ -15,6 +15,7 @@ layout: default
 | EPUB 3.3 Reading Systems       | [Working Draft](https://www.w3.org/TR/epub-rs-33/) | [ED](https://w3c.github.io/epub-specs/epub33/rs/)                      
 | EPUB Multiple-Rendition Publications 1.1<sup>†<sup> | [WG Note](https://www.w3.org/TR/epub-multi-rend-11/) | [ED](https://w3c.github.io/epub-specs/epub33/multi-rend/) 
 | EPUB 3 Text-to-Speech Enhancements 1.0<sup>†<sup>  |  [WG Note](https://www.w3.org/TR/epub-tts-10/) | [ED](https://w3c.github.io/epub-specs/epub33/tts/)     
+| EPUB 3 Structural Semantics Vocabulary 1.1<sup>†<sup>  |  [WG Note](https://www.w3.org/TR/epub-ssv-11/) | [ED](https://w3c.github.io/epub-specs/epub33/ssv/)     
 | EPUB Accessibility 1.1         |  [Working Draft](https://www.w3.org/TR/epub-a11y-11/) | [ED](https://w3c.github.io/epub-specs/epub33/a11y/)     
 | EPUB Accessibility Techniques 1.1<sup>†<sup>  |  [WG Note](https://www.w3.org/TR/epub-a11y-tech-11/) | [ED](https://w3c.github.io/epub-specs/epub33/epub-a11y-eaa-mapping/)     
 | EPUB Accessibility EU Accessibility Act Mapping<sup>†<sup>  |  [WG Note](https://www.w3.org/TR/epub-a11y-eaa-mapping/) | [ED](https://w3c.github.io/epub-specs/epub33/a11y-tech/)     

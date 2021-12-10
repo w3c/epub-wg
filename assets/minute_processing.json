@@ -1,5 +1,5 @@
 {
-    "date": "2021-12-03T16:19:02.313Z",
+    "date": "2021-12-10T07:42:27.914Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -101,9 +101,34 @@
         "2021-11-11-epub-a11y.md",
         "2021-11-11-epub.md",
         "2021-11-19-epub.md",
-        "2021-12-03-epub.md"
+        "2021-12-03-epub.md",
+        "2021-12-09-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-12-09",
+            "number": 1,
+            "text": "Close issue 1921 with no change.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-12-09-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-12-09",
+            "number": 2,
+            "text": "Elevate the default behaviour statements for <code>rendition:orientation</code> and <code>rendition:spread</code> to MUSTs.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-12-09-epub#resolution2",
+            "call": "epub"
+        },
+        {
+            "year": 2021,
+            "date": "2021-12-09",
+            "number": 3,
+            "text": "Merge PR 1947 and close issue 1941.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2021-12-09-epub#resolution3",
+            "call": "epub"
+        },
         {
             "year": 2021,
             "date": "2021-12-03",

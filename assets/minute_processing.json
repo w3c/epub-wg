@@ -1,5 +1,5 @@
 {
-    "date": "2022-02-18T05:47:49.018Z",
+    "date": "2022-02-25T16:24:14.579Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -108,9 +108,18 @@
         "2022-01-28-epub.md",
         "2022-02-03-epub.md",
         "2022-02-11-epub.md",
-        "2022-02-17-epub.md"
+        "2022-02-17-epub.md",
+        "2022-02-25-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2022,
+            "date": "2022-02-25",
+            "number": 1,
+            "text": "Merge PR 2002.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-02-25-epub#resolution1",
+            "call": "epub"
+        },
         {
             "year": 2022,
             "date": "2022-02-17",

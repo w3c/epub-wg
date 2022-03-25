@@ -1,5 +1,5 @@
 {
-    "date": "2022-03-18T05:13:46.155Z",
+    "date": "2022-03-25T15:14:22.370Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -112,9 +112,34 @@
         "2022-02-25-epub.md",
         "2022-03-03-epub.md",
         "2022-03-11-epub.md",
-        "2022-03-17-epub.md"
+        "2022-03-17-epub.md",
+        "2022-03-25-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2022,
+            "date": "2022-03-25",
+            "number": 1,
+            "text": "Merge PR 2106, close issue 2093.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-03-25-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2022,
+            "date": "2022-03-25",
+            "number": 2,
+            "text": "Add note about container constraints to scripting section, close issue 2098.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-03-25-epub#resolution2",
+            "call": "epub"
+        },
+        {
+            "year": 2022,
+            "date": "2022-03-25",
+            "number": 3,
+            "text": "Merge PR 2060, deprecate collections.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-03-25-epub#resolution3",
+            "call": "epub"
+        },
         {
             "year": 2022,
             "date": "2022-03-03",

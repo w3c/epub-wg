@@ -1,5 +1,5 @@
 {
-    "date": "2022-04-01T04:21:46.845Z",
+    "date": "2022-04-08T15:12:55.082Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -114,9 +114,42 @@
         "2022-03-11-epub.md",
         "2022-03-17-epub.md",
         "2022-03-25-epub.md",
-        "2022-03-31-epub.md"
+        "2022-03-31-epub.md",
+        "2022-04-08-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2022,
+            "date": "2022-04-08",
+            "number": 1,
+            "text": "Close remaining privacy and security issues.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-04-08-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2022,
+            "date": "2022-04-08",
+            "number": 2,
+            "text": "Adopt the recommended text in issue 2153, close issue.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-04-08-epub#resolution2",
+            "call": "epub"
+        },
+        {
+            "year": 2022,
+            "date": "2022-04-08",
+            "number": 3,
+            "text": "Do a final update of the IDPF registry, add note that it will no longer be updated, accept PR 2233, close issue 2200.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-04-08-epub#resolution3",
+            "call": "epub"
+        },
+        {
+            "year": 2022,
+            "date": "2022-04-08",
+            "number": 4,
+            "text": "Move EPUB 3.3 Core, EPUB 3.3 Reading Systems, and EPUB Accessibility 1.1 to CR, publication date May 5 (preliminary), pending all PRs are closed by April 15th.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-04-08-epub#resolution4",
+            "call": "epub"
+        },
         {
             "year": 2022,
             "date": "2022-03-31",

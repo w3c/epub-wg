@@ -38,18 +38,18 @@ The names of the official WG documents differ from the ones listed is in the cha
 These steps resulted in the EPUB 3.3 and the EPUB 3.3 Reading Systems documents. The EPUB Accessibility document remained, in this respect, unchanged. All these changes were purely editorial.
 
 * EPUB 3.3:
-    * First Public Working Draft (FPWD): February 2021 (January 2021)
+    * First Public Working Draft (FPWD): February 2021 (realized January 2021)
     * Candidate Recommendation (CR): November 2021
     * Proposed Recommendation (PR): December 2022
     * Recommendation (REC): February 2023.
 * EPUB 3.3 Reading Systems:
-    * First Public Working Draft (FPWD): February 2021 (January 2021)
+    * First Public Working Draft (FPWD): February 2021 (realized January 2021)
     * Candidate Recommendation (CR): November 2021
     * Proposed Recommendation (PR): December 2022
     * Recommendation (REC): February 2023.
 * EPUB Accessibility 1.1:
-    * First Public Working Draft (FPWD): February 2021
-    * Updated Working Draft: May 2021
+    * First Public Working Draft (FPWD): February 2021 (realized February 2021)
+    * Updated Working Draft: May 2021 (realized May 2021)
     * Candidate Recommendation (CR): November 2021
     * Proposed Recommendation (PR): December 2022
     * Recommendation (REC): February 2023.

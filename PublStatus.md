@@ -11,12 +11,12 @@ layout: default
 | Document | Official Publication | Editors’ Draft |
 |----------|:--------------:|:-----------------:|
 | EPUB 3.3 Overview<sup>†<sup>   | [WG Note](https://www.w3.org/TR/epub-overview-33/) | [ED](https://w3c.github.io/epub-specs/epub33/overview/)                
-| EPUB 3.3                       | [Working Draft](https://www.w3.org/TR/epub-33/) | [ED](https://w3c.github.io/epub-specs/epub33/core/)                    
-| EPUB 3.3 Reading Systems       | [Working Draft](https://www.w3.org/TR/epub-rs-33/) | [ED](https://w3c.github.io/epub-specs/epub33/rs/)                      
+| EPUB 3.3                       | [Candidate Rec.](https://www.w3.org/TR/epub-33/) | [ED](https://w3c.github.io/epub-specs/epub33/core/)                    
+| EPUB 3.3 Reading Systems       | [Candidate Rec.](https://www.w3.org/TR/epub-rs-33/) | [ED](https://w3c.github.io/epub-specs/epub33/rs/)                      
 | EPUB Multiple-Rendition Publications 1.1<sup>†<sup> | [WG Note](https://www.w3.org/TR/epub-multi-rend-11/) | [ED](https://w3c.github.io/epub-specs/epub33/multi-rend/) 
 | EPUB 3 Text-to-Speech Enhancements 1.0<sup>†<sup>  |  [WG Note](https://www.w3.org/TR/epub-tts-10/) | [ED](https://w3c.github.io/epub-specs/epub33/tts/)     
 | EPUB 3 Structural Semantics Vocabulary 1.1<sup>†<sup>  |  [WG Note](https://www.w3.org/TR/epub-ssv-11/) | [ED](https://w3c.github.io/epub-specs/epub33/ssv/)     
-| EPUB Accessibility 1.1         |  [Working Draft](https://www.w3.org/TR/epub-a11y-11/) | [ED](https://w3c.github.io/epub-specs/epub33/a11y/)     
+| EPUB Accessibility 1.1         |  [Candidate Rec.](https://www.w3.org/TR/epub-a11y-11/) | [ED](https://w3c.github.io/epub-specs/epub33/a11y/)     
 | EPUB Accessibility Techniques 1.1<sup>†<sup>  |  [WG Note](https://www.w3.org/TR/epub-a11y-tech-11/) | [ED](https://w3c.github.io/epub-specs/epub33/epub-a11y-eaa-mapping/)     
 | EPUB Accessibility EU Accessibility Act Mapping<sup>†<sup>  |  [WG Note](https://www.w3.org/TR/epub-a11y-eaa-mapping/) | [ED](https://w3c.github.io/epub-specs/epub33/a11y-tech/)     
 | EPUB Fixed Layout Accessibility<sup>†<sup>   | n/a | [ED](https://w3c.github.io/epub-specs/epub33/fxl-a11y/)                
@@ -39,18 +39,18 @@ These steps resulted in the EPUB 3.3 and the EPUB 3.3 Reading Systems documents.
 
 * EPUB 3.3:
     * First Public Working Draft (FPWD): February 2021 (realized January 2021)
-    * Candidate Recommendation (CR): November 2021
+    * Candidate Recommendation (CR): November 2021 (realized May 2022)
     * Proposed Recommendation (PR): December 2022
     * Recommendation (REC): February 2023.
 * EPUB 3.3 Reading Systems:
     * First Public Working Draft (FPWD): February 2021 (realized January 2021)
-    * Candidate Recommendation (CR): November 2021
+    * Candidate Recommendation (CR): November 2021 (realized May 2022)
     * Proposed Recommendation (PR): December 2022
     * Recommendation (REC): February 2023.
 * EPUB Accessibility 1.1:
     * First Public Working Draft (FPWD): February 2021 (realized February 2021)
     * Updated Working Draft: May 2021 (realized May 2021)
-    * Candidate Recommendation (CR): November 2021
+    * Candidate Recommendation (CR): November 2021 (realized May 2022)
     * Proposed Recommendation (PR): December 2022
     * Recommendation (REC): February 2023.
 

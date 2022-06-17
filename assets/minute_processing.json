@@ -1,5 +1,5 @@
 {
-    "date": "2022-06-10T04:58:00.308Z",
+    "date": "2022-06-17T14:53:07.757Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -120,9 +120,34 @@
         "2022-05-20-epub.md",
         "2022-05-26-epub.md",
         "2022-06-03-epub.md",
-        "2022-06-09-epub.md"
+        "2022-06-09-epub.md",
+        "2022-06-17-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2022,
+            "date": "2022-06-17",
+            "number": 1,
+            "text": "proceed as described in <a href=\"https://github.com/w3c/epub-specs/issues/2322#issuecomment-1157847432\">https://github.com/w3c/epub-specs/issues/2322#issuecomment-1157847432</a> and then close the issue.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-06-17-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2022,
+            "date": "2022-06-17",
+            "number": 2,
+            "text": "Recommend the user SHOULD be given notification about links and their destination as part of RS recommendations, close issue 2320.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-06-17-epub#resolution2",
+            "call": "epub"
+        },
+        {
+            "year": 2022,
+            "date": "2022-06-17",
+            "number": 3,
+            "text": "Merge PR 2330, review remainder of specification for similar issues.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-06-17-epub#resolution3",
+            "call": "epub"
+        },
         {
             "year": 2022,
             "date": "2022-06-09",

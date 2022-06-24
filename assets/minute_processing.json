@@ -1,5 +1,5 @@
 {
-    "date": "2022-06-17T14:53:07.757Z",
+    "date": "2022-06-24T04:26:37.878Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -121,9 +121,42 @@
         "2022-05-26-epub.md",
         "2022-06-03-epub.md",
         "2022-06-09-epub.md",
-        "2022-06-17-epub.md"
+        "2022-06-17-epub.md",
+        "2022-06-23-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2022,
+            "date": "2022-06-23",
+            "number": 1,
+            "text": "Deprecate Bridgehead, close issue 2327.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-06-23-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2022,
+            "date": "2022-06-23",
+            "number": 2,
+            "text": "Define the meta viewport property with only the width and height attributes as a restriction on the CSS definition, close issue 2292.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-06-23-epub#resolution2",
+            "call": "epub"
+        },
+        {
+            "year": 2022,
+            "date": "2022-06-23",
+            "number": 3,
+            "text": "Close issue 2270, don't fix.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-06-23-epub#resolution3",
+            "call": "epub"
+        },
+        {
+            "year": 2022,
+            "date": "2022-06-23",
+            "number": 4,
+            "text": "Close issue 2261, won't fix.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-06-23-epub#resolution4",
+            "call": "epub"
+        },
         {
             "year": 2022,
             "date": "2022-06-17",

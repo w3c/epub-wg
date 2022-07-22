@@ -1,5 +1,5 @@
 {
-    "date": "2022-06-24T04:26:37.878Z",
+    "date": "2022-07-22T06:39:28.735Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -122,9 +122,18 @@
         "2022-06-03-epub.md",
         "2022-06-09-epub.md",
         "2022-06-17-epub.md",
-        "2022-06-23-epub.md"
+        "2022-06-23-epub.md",
+        "2022-07-22-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2022,
+            "date": "2022-07-21",
+            "number": 1,
+            "text": "Deprecate name and version properties on the <code>epubReadingSystem</code> object.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-07-21-epub#resolution1",
+            "call": "epub"
+        },
         {
             "year": 2022,
             "date": "2022-06-23",

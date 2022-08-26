@@ -1,5 +1,5 @@
 {
-    "date": "2022-08-05T04:52:26.881Z",
+    "date": "2022-08-26T15:00:04.140Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -124,9 +124,26 @@
         "2022-06-17-epub.md",
         "2022-06-23-epub.md",
         "2022-07-22-epub.md",
-        "2022-08-04-epub.md"
+        "2022-08-04-epub.md",
+        "2022-08-26-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2022,
+            "date": "2022-08-26",
+            "number": 1,
+            "text": "Once the edits are finalized, merge PR 2402 and close issue 2397.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-08-26-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2022,
+            "date": "2022-08-26",
+            "number": 2,
+            "text": "Merge PRs 2400 and 2401.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-08-26-epub#resolution2",
+            "call": "epub"
+        },
         {
             "year": 2022,
             "date": "2022-08-04",

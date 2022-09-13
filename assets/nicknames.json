@@ -349,7 +349,7 @@
     },
     {
         "nick": [
-            "symon"
+            "symon", "SymonFlaming"
         ],
         "name": "Symon Flaming"
     },
@@ -464,6 +464,12 @@
             "ryladog"
         ],
         "name": "Katie Haritos-Shea"
+    },
+    {
+        "nick": [
+            "dhall"
+        ],
+        "name": "David Hall"
     },
     {
         "nick": [
@@ -602,6 +608,12 @@
             "yuya_kato"
         ],
         "name": "Yuya Kato"
+    },
+    {
+        "nick": [
+            "kawada"
+        ],
+        "name": "Hiroshi Kawada"
     },
     {
         "nick": [
@@ -1422,5 +1434,11 @@
         ],
         "name": "Philippe le Hégaret",
         "github": "plhegar"
+    },
+    {
+        "nick": [
+            "dsinger"
+        ],
+        "name": "David Singer"
     }
 ]

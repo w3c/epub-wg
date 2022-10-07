@@ -1,5 +1,5 @@
 {
-    "date": "2022-09-30T08:39:38.182Z",
+    "date": "2022-10-07T15:37:15.100Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -128,9 +128,18 @@
         "2022-08-26-epub.md",
         "2022-09-12-epub.md",
         "2022-09-13-epub.md",
-        "2022-09-29-epub.md"
+        "2022-09-29-epub.md",
+        "2022-10-07-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2022,
+            "date": "2022-10-07",
+            "number": 1,
+            "text": "Ivan to adjust language to reflect content creator/EPUBCheck responsibility for viewport.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2022-10-07-epub#resolution1",
+            "call": "epub"
+        },
         {
             "year": 2022,
             "date": "2022-09-29",

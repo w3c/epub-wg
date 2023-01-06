@@ -1,5 +1,5 @@
 {
-    "date": "2022-12-09T05:52:16.508Z",
+    "date": "2023-01-06T15:23:14.793Z",
     "file_names": [
         "2020-09-11-epub.md",
         "2020-09-17-epub.md",
@@ -131,9 +131,42 @@
         "2022-09-29-epub.md",
         "2022-10-07-epub.md",
         "2022-12-02-epub.md",
-        "2022-12-08-epub.md"
+        "2022-12-08-epub.md",
+        "2023-01-05-epub.md"
     ],
     "resolutions": [
+        {
+            "year": 2023,
+            "date": "2023-01-05",
+            "number": 1,
+            "text": "Remove the linked records order and priority requirements from the specification.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2023-01-05-epub#resolution1",
+            "call": "epub"
+        },
+        {
+            "year": 2023,
+            "date": "2023-01-05",
+            "number": 2,
+            "text": "Keep the dir attribute requirements for the package metadata, they are important to i18n, add note explaining it is a new feature.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2023-01-05-epub#resolution2",
+            "call": "epub"
+        },
+        {
+            "year": 2023,
+            "date": "2023-01-05",
+            "number": 3,
+            "text": "Lower the requirement for processing non-text elements in the nav doc from a MUST to a SHOULD.",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2023-01-05-epub#resolution3",
+            "call": "epub"
+        },
+        {
+            "year": 2023,
+            "date": "2023-01-05",
+            "number": 4,
+            "text": "Publish the EPUB ARIA Authoring Guide as a working group note, with the short name \"epub-aria-authoring-11\".",
+            "url": "https://www.w3.org/publishing/groups/epub-wg/Meetings/Minutes/2023-01-05-epub#resolution4",
+            "call": "epub"
+        },
         {
             "year": 2022,
             "date": "2022-12-08",

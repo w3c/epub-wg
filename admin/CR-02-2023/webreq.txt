@@ -1,0 +1,34 @@
+Dear Webmaster,
+
+This is a publication request for a new CR Snapshot for three documents produced by the EPUB Working Group:
+
+- EPUB 3.3
+     https://www.w3.org/TR/2023/CR-epub-33-20230221/
+- EPUB Reading Systems 3.3
+    https://www.w3.org/TR/2023/CR-epub-rs-33-20230221/
+- EPUB Accessibility 1.1
+    https://www.w3.org/TR/2023/CR-epub-a11y-11-20230221/
+
+Publication date: 2023-02-21
+
+Director's approval can be found in:
+    https://github.com/w3c/transitions/issues/484#issuecomment-1434810905
+
+HTML Pubrules' checker:
+    There is a common error reported by the checker for all three documents referring to a different copyright statement than the standard. The form used in these documents, i.e.:
+    
+    > Copyright © 1999-2023 International Digital Publishing Forum and World Wide Web Consortium. W3C® liability, trademark and permissive document license rules apply.
+    
+    is intentionally different, and we were instructed by Ralph (cc-d) to use this.
+
+Link checker:
+    I am not sure what happens (and what we can do) with some fragment errors reported by the link checker for CR-epub-rs and CR-epub: the errors, referring to the WHATWG document, are provided by the automatic cross reference tools and, when copy-paste them to the browser address line the do dereference. I presume this is a problem with the way the WHATWG spec operates and/or the link checker tool itself.
+
+    Furthermore, the checker tool reports an error (for CR-epub) on the URL https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf but, when using the URL in the browser address bar, it correctly dereferences to a PDF file.
+
+
+We apologize for the somewhat late request, which was due to a combination of some process issues, confusions on the way to proceed, and my own health issues that made it impossible to proceed along the usual schedule.
+
+A mail will be sent to the comm team on the 20th to help the final announcement.
+
+

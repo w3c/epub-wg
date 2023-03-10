@@ -1,0 +1,19 @@
+To: xueyuan, Cc: coralie, comm team, denis, jennyliang@w3.org, EPUB WG Chairs, Matt
+
+
+Subject: [DRAFT HPN] EPUB Type to ARIA Role Authoring Guide 1.1
+
+----------------------------
+
+<p>The <a href="https://www.w3.org//publishing/groups/epub-wg/">EPUB 3 Working Group</a> 
+has just published the Working Group Note
+<a href="https://www.w3.org/TR/2023/NOTE-epub-aria-authoring-11-20230314/">EPUB Type to ARIA Role Authoring Guide 1.1</a>.
+This document provides guidance for publishers looking to move from the use of the EPUB 3 epub:type attribute to ARIA roles for accessibility.
+</p>
+
+<p>
+The <code>epub:type</code> attribute has evolved to aid publisher workflows. It has limited use enabling reading system behaviors outside of some core functionality of EPUB (identifying navigation elements and enhancing media overlay documents). Although it was hoped the attribute would also expose information to assistive technologies, in practice it does not. 
+The primary purpose of the ARIA <code>role</code> attribute, on the other hand, is to expose information to assistive technologies. It is not to facilitate user agent behaviors.
+This guide addresses key authoring differences to be aware of when migrating to ARIA roles from the <code>epub:type</code> attribute, or when using both attributes together. The goal is to help publishers avoid the pitfalls of applying ARIA roles like they would <code>epub:type</code> semantics and breaking the reading experience for users of assistive technologies.
+</p>
+

@@ -1,0 +1,33 @@
+To: webmaster, Cc: jennyliang@w3.org, EPUB WG Chairs
+
+Denis, Jiaying
+
+This is an official publication request for the publication of the EPUB 3 WG's "EPUB Type to ARIA Role Authoring Guide 1.1" as First Public Working Group Note. The publication date is the 14 of March, 2023. The transition request for the Note has been issued in:
+
+	https://github.com/w3c/transitions/issues/490
+
+the Director's approval is in:
+
+	https://github.com/w3c/transitions/issues/490#issuecomment-1462409077
+
+Document Title and URL
+======================
+
+EPUB Type to ARIA Role Authoring Guide 1.1
+	https://www.w3.org/TR/2023/NOTE-epub-aria-authoring-11-20230314/
+
+
+Abstract and Status Sections
+----------------------------
+
+See the previous URL.
+
+The document should be placed in the "Digital Publishing" bucket on the /TR page.
+
+The documents is already in place and went through pubrules' checker, except for the special copyright checking step, which has not yet been implemented on the checker  (see [1]).
+
+Thanks!
+
+Ivan
+
+[1] https://github.com/w3c/specberus/issues/1716

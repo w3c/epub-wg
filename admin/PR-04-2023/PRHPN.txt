@@ -1,0 +1,31 @@
+To: xueyuan, Cc: coralie, comm team, denis, jennyliang@w3.org, EPUB WG Chairs, Matt, Tzviya
+
+
+Subject: [DRAFT HPN] Call for Review: EPUB 3.3 is a W3C Proposed Recommendation
+
+----------------------------
+
+<p>The <a href="https://www.w3.org//publishing/groups/epub-wg/">EPUB 3 Working Group</a> has published three 
+Proposed Recommendations today for EPUB&nbsp;3.3. This technology defines a distribution and interchange format
+for digital publications and documents. The EPUB format provides a means of representing, packaging,
+and encoding structured and semantically enhanced Web content — including HTML, CSS, SVG, and 
+other resources — for distribution in a single-file container.</p>
+
+<p>The three Proposed Recommendations are:</p>
+
+<ul>
+    <li>
+        The <a href="https://www.w3.org/TR/2023/PR-epub-33-20230413/">EPUB 3.3</a> specification defines the authoring requirements
+        for EPUB Publications and represents the third major revision of the standard.
+    </li>
+    <li>
+        The <a href="https://www.w3.org/TR/2023/PR-epub-rs-33-20230413/">EPUB 3.3 Reading Systems</a> specification
+        defines the conformance requirements for EPUB 3 Reading Systems — the user agents that render EPUB Publications.
+    </li>
+    <li>
+        The <a href="https://www.w3.org/TR/2023/PR-epub-a11y-11-20230413/">EPUB Accessibility 1.1</a> 
+        specifies content conformance requirements for verifying the accessibility of EPUB Publications. 
+        It also specifies accessibility metadata requirements for the discoverability of EPUB publications.
+    </li>
+</ul>
+

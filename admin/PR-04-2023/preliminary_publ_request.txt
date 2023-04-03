@@ -1,0 +1,29 @@
+Sent to: denis, jennyliang@w3.org Cc: EPUB WG Chairs, Matt on 2023-04-03
+
+Denis, Jiaying,
+
+As you could see in [1], there is a transition request for a PR, with a publication planned for the 13th of April.
+Hopefully we will get the approval of Philippe and Yves in time.
+
+I have already put the document on TR space:
+
+* EPUB 3.3
+  https://www.w3.org/TR/2023/PR-epub-33-20230413/
+* EPUB 3.3 Reading Systems
+  https://www.w3.org/TR/2023/PR-epub-rs-33-20230413/
+* EPUB Accessibility 1.1
+  https://www.w3.org/TR/2023/PR-epub-a11y-11-20230413/
+
+and we have gone through the pubrules' checker. However, we would appreciate if you 
+could check the document whether it is ready for publication, or whether we have to 
+make some editorial changes.
+
+Of course, as soon as we get the transition approval, I will send you (i.e., the webmaster) an official
+publication request, will send the drafts for the PR AC and HPN announcement drafts to Xueyuan, and I will
+prepare the necessary WBS form.
+
+Thanks
+
+Ivan
+
+[1] https://github.com/w3c/transitions/issues/496

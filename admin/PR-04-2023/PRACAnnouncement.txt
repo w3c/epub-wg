@@ -1,0 +1,65 @@
+To: xueyuan, Cc: coralie, comm team, denis, jennyliang@w3.org, EPUB WG Chairs, Matt, Tzviya
+
+
+Xueyuan,
+
+here is the draft announcement for the PR transition for the EPUB 3.3. I have already created the PR review form:
+
+https://www.w3.org/2002/09/wbs/@@@@@/epub-pr/
+
+The starting date has been set to the 15 of April to avoid preliminary votes; please,
+check it whether it is otherwise o.k. You should set the opening date to the 13rd when the publication is announced.
+
+Thank you!
+
+A separate HPN draft will follow in a separate mail
+
+Ivan
+
+
+[DRAFT] Vote by 2023-05-14/15: EPUB 3.3 is a W3C Proposed Recommendation
+---------------------------------------------------------------------
+
+
+Dear Advisory Committee Representatives,
+Chairs,
+
+W3C is pleased to announce that the following documents are now a Proposed Recommendation:
+
+* EPUB 3.3
+  https://www.w3.org/TR/2023/PR-epub-33-20230413/
+* EPUB 3.3 Reading Systems
+  https://www.w3.org/TR/2023/PR-epub-rs-33-20230413/
+* EPUB Accessibility 1.1
+  https://www.w3.org/TR/2023/PR-epub-a11y-11-20230413/
+
+Please review the specification and indicate whether you endorse it as a 
+W3C Recommendation or object to its advancement by completing the 
+following questionnaire:
+     https://www.w3.org/2002/09/wbs/@@@@@/epub-pr/
+
+Additional details about the review are available in the questionnaire. 
+The deadline for responses is 03:59 UTC on 15 May 2023 (23:59, Eastern 
+time on 14 May)[0].
+
+The approval and publication are in response to this transition request:
+   	https://github.com/w3c/transitions/issues/496
+
+More information about the EPUB Working Group is available on the 
+group home page:
+     https://www.w3.org/publishing/groups/epub-wg/
+
+If you should have any questions or need further information, please 
+contact Ivan Herman <ivan@w3.org>, EPUB Working Group Team Contact.
+
+This Call for Review  follows section 6.3.9 of the W3C Process Document:
+     https://www.w3.org/2021/Process-20211102/#transition-pr
+
+Thank you,
+
+For Tim Berners-Lee, Director, and
+Philippe Le Hégaret, Project Management Lead;
+Ivan Herman, EPUB WG Staff contact;
+Xueyuan Jia, W3C Marketing & Communications
+
+[0] https://www.timeanddate.com/worldclock/fixedtime.html?iso=20230514T2359&p1=43

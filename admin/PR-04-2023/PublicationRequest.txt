@@ -9,9 +9,14 @@ Denis, Jiaying
 This is an official publication request on behalf of the EPUB 3 WG Working Group for the publication of three Proposed 
 Recommendations. The publication date should be on Thursday, 13 April 2021.
 
-The PR requests to the Director, that also includes their respective approval, are in:
+The PR request to the Director is in:
 
 https://github.com/w3c/transitions/issues/496
+
+with the approval in: 
+
+https://github.com/w3c/transitions/issues/496#issuecomment-1500305583
+
 
 The documents are as follows:
 -----------------------------
@@ -34,7 +39,7 @@ Abstract and Status Sections: see the previous URL-s.
 The document have already been installed; they all pass pubrules and the link checker.
 The link checker refers to the "usual" fragment errors for the WHATWG HTML document.
 
-The PR WBS form is in https://www.w3.org/2002/09/wbs/@@@@@/epub-pr/; a separate draft HPN and AC announcement
+The PR WBS form is in https://www.w3.org/2002/09/wbs/33280/epub-pr/; a separate draft HPN and AC announcement
 mail will be sent to the comm team and will be cc-d to you.
 
 Thanks!

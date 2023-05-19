@@ -1,0 +1,40 @@
+Dear webmaster,
+
+This is a preliminary publication request for three Recommendations to come.
+
+Here are the necessary information for the publications.
+
+    Document Title:  EPUB 3.3
+    Document URL:  https://www.w3.org/TR/2023/REC-epub-33-20230525/ (doc already in place)
+    Publication date: 2023-05-25
+    
+    Document Title:  EPUB 3.3 Reading Systems
+    Document URL: https://www.w3.org/TR/2023/REC-epub-rs-33-20230525/ (doc already in place)
+    Publication date: 2023-05-25
+    
+    Document Title:  EPUB Accessibility 1.1
+    Document URL: https://www.w3.org/TR/2023/REC-epub-a11y-11-20230525/ (doc already in place)
+    Publication date: 2023-05-25
+    
+    Approval:
+        Record of publication request:
+            https://lists.w3.org/Archives/Team/w3t-comm/2023May/0080.html
+            https://github.com/w3c/transitions/issues/505
+        Director's approval is expected this week end
+
+All three documents pass the pubrules' check.
+
+The linkchecker reports the following problems:
+
+    - https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf is reported as an error in EPUB 3.3, but it does 
+       dereferences properly when clicking on the URL
+
+    - Checking https://www.editeur.org/8/ONIX/ in the EPUB Accessibility document is forbidden via robots.txt, but it does dereferences properly when clicking on the URL
+
+    - A number of HTML/WHATWG fragment ID-s are reported as errors for EPUB 3.3 and EPUB 3.3 Reading Systems, but those are all correct when clicking.
+    
+
+Thank You
+
+Ivan
+
